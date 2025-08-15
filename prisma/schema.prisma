@@ -1,0 +1,44 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+
+
+model User {
+  id Int @id @default(autoincrement())
+  Fullname String
+  Lastname String?
+  telegramId BigInt @unique()
+  phone String @unique()
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt()
+  answers AtistatsiyaAnswer[]
+  @@map("users")
+}
+
+  model Atistatsiya {
+    id Int @id @default(autoincrement())
+    Text String
+    A String
+    B String
+    C String
+    D String
+    AnswerKey String
+    bolimId Int // 1 or 2 or 3 or 4 class
+    @@map("atistatsiya")
+  }
+
+
+model AtistatsiyaAnswer{
+  id Int @id @default(autoincrement())
+  userId Int
+  AnsCount Int
+  DisCount Int
+  BolimId Int
+   user User @relation(fields: [userId], references: [id], onDelete: Cascade)
+}
