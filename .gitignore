@@ -4,6 +4,12 @@
 /build
 /data
 /src/bot
+data
+.data
+./data
+.gitignore
+/.gitgnore
+./.gitignore
 # Logs
 logs
 *.log
