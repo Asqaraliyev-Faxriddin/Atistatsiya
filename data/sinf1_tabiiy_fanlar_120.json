@@ -1,1082 +1,793 @@
 [
   {
-    "Text": "Quyosh bizga nimalarni beradi?",
+    "Text": "Quyosh bizga nima beradi?",
     "A": "Issiqlik va yorug‘lik",
-    "B": "Suv va shamol",
-    "C": "Tovush va rang",
-    "D": "Qor va yomg‘ir",
+    "B": "Oziq-ovqat",
+    "C": "Shamol",
+    "D": "Suv",
     "AnswerKey": "A",
     "bolimId": 1
   },
   {
-    "Text": "Kunduzi osmonda odatda nimani ko‘ramiz?",
+    "Text": "Osmondagi eng katta yulduz qaysi?",
     "A": "Oy",
     "B": "Quyosh",
-    "C": "Yulduzlar",
-    "D": "Kamalak",
-    "AnswerKey": "B",
-    "bolimId": 1
-  },
-  {
-    "Text": "Tunda osmonda eng ko‘p nimalar ko‘rinadi?",
-    "A": "Bulutlar",
-    "B": "Quyosh",
-    "C": "Yulduzlar",
-    "D": "Quyosh nurlari",
-    "AnswerKey": "C",
-    "bolimId": 1
-  },
-  {
-    "Text": "Qaysi faslda qor yog‘adi?",
-    "A": "Bahor",
-    "B": "Yoz",
-    "C": "Kuz",
-    "D": "Qish",
-    "AnswerKey": "D",
-    "bolimId": 1
-  },
-  {
-    "Text": "Bahorda daraxtlarda nima paydo bo‘ladi?",
-    "A": "Yaproqlar va g‘unchalar",
-    "B": "Muz",
-    "C": "Qor",
-    "D": "Qum",
-    "AnswerKey": "A",
-    "bolimId": 1
-  },
-  {
-    "Text": "O‘simliklar o‘sishi uchun nimalar kerak?",
-    "A": "Suv, nur va havo",
-    "B": "Qor, muz va tutun",
-    "C": "Qum, tosh va temir",
-    "D": "Shakar va tuz",
-    "AnswerKey": "A",
-    "bolimId": 1
-  },
-  {
-    "Text": "O‘simlikning yer ostidagi qismi nima?",
-    "A": "Gul",
-    "B": "Barg",
-    "C": "Poya",
-    "D": "Ildiz",
-    "AnswerKey": "D",
-    "bolimId": 1
-  },
-  {
-    "Text": "O‘simlik bargining vazifasi nima?",
-    "A": "Suvni tortish",
-    "B": "Yorug‘likni qabul qilish",
-    "C": "Oziqni tuproqqa yuborish",
-    "D": "Unib chiqish",
-    "AnswerKey": "B",
-    "bolimId": 1
-  },
-  {
-    "Text": "Qaysi biri tirik tabiatga kiradi?",
-    "A": "Qum",
-    "B": "Tosh",
-    "C": "Mushuk",
-    "D": "Suv",
-    "AnswerKey": "C",
-    "bolimId": 1
-  },
-  {
-    "Text": "Qaysi biri jonsiz tabiatga kiradi?",
-    "A": "Daraxt",
-    "B": "Quyon",
-    "C": "Tosh",
-    "D": "Gul",
-    "AnswerKey": "C",
-    "bolimId": 1
-  },
-  {
-    "Text": "Qaysi hayvon sut emizuvchi?",
-    "A": "Tovuq",
-    "B": "Baliq",
-    "C": "Sigir",
-    "D": "Qush",
-    "AnswerKey": "C",
-    "bolimId": 1
-  },
-  {
-    "Text": "Qaysi hayvon tuxum qo‘yadi?",
-    "A": "Sigir",
-    "B": "It",
-    "C": "Tovuq",
-    "D": "Mushuk",
-    "AnswerKey": "C",
-    "bolimId": 1
-  },
-  {
-    "Text": "Qaysi jonivor suvda yashaydi?",
-    "A": "Qarg‘a",
-    "B": "Baliq",
-    "C": "Mushuk",
-    "D": "Sigir",
-    "AnswerKey": "B",
-    "bolimId": 1
-  },
-  {
-    "Text": "Qaysi jonivor uchadi?",
-    "A": "Baliq",
-    "B": "Qush",
-    "C": "Ot",
-    "D": "Sichqon",
-    "AnswerKey": "B",
-    "bolimId": 1
-  },
-  {
-    "Text": "Suvning uch holati qaysi?",
-    "A": "Suyuqlik, qattiq va gaz",
-    "B": "Faqat suyuq",
-    "C": "Faqat gaz",
-    "D": "Faqat qattiq",
-    "AnswerKey": "A",
-    "bolimId": 1
-  },
-  {
-    "Text": "Muz — bu suvning qaysi holati?",
-    "A": "Suyuqlik",
-    "B": "Gaz",
-    "C": "Qattiq",
-    "D": "Bug‘",
-    "AnswerKey": "C",
-    "bolimId": 1
-  },
-  {
-    "Text": "Bug‘ — bu suvning qaysi holati?",
-    "A": "Qattiq",
-    "B": "Gaz",
-    "C": "Suyuqlik",
-    "D": "Tosh",
-    "AnswerKey": "B",
-    "bolimId": 1
-  },
-  {
-    "Text": "Suvni qayerdan ichamiz?",
-    "A": "Daryo va ko‘l",
-    "B": "O‘rmonda",
-    "C": "Toshdan",
-    "D": "Quyoshdan",
-    "AnswerKey": "A",
-    "bolimId": 1
-  },
-  {
-    "Text": "Qaysi faslda mevalar ko‘p pishadi?",
-    "A": "Qish",
-    "B": "Kuz",
-    "C": "Bahor",
-    "D": "Yoz",
-    "AnswerKey": "B",
-    "bolimId": 1
-  },
-  {
-    "Text": "O‘rmonlarda ko‘proq nimalar o‘sadi?",
-    "A": "Qamish",
-    "B": "Daraxtlar",
-    "C": "Muzlar",
-    "D": "Qumtepalar",
-    "AnswerKey": "B",
-    "bolimId": 1
-  },
-  {
-    "Text": "Qaysi biri meva?",
-    "A": "Olma",
-    "B": "Kartoshka",
-    "C": "Sabzi",
-    "D": "Karam",
-    "AnswerKey": "A",
-    "bolimId": 1
-  },
-  {
-    "Text": "Qaysi biri sabzavot?",
-    "A": "Olma",
-    "B": "Bodring",
-    "C": "Uzum",
-    "D": "Olcha",
-    "AnswerKey": "B",
-    "bolimId": 1
-  },
-  {
-    "Text": "Sog‘liq uchun nima zarur?",
-    "A": "Toza suv",
-    "B": "Chang",
-    "C": "Tutun",
-    "D": "Shovqin",
-    "AnswerKey": "A",
-    "bolimId": 1
-  },
-  {
-    "Text": "Qaysi odat to‘g‘ri?",
-    "A": "Qo‘lni yuvmaslik",
-    "B": "Ovqatdan oldin qo‘l yuvish",
-    "C": "Axlatni yerga tashlash",
-    "D": "Suvni isrof qilish",
-    "AnswerKey": "B",
-    "bolimId": 1
-  },
-  {
-    "Text": "Havo qayerdan kiradi?",
-    "A": "Derazadan",
-    "B": "Pol",
-    "C": "Kitob",
-    "D": "Idish",
-    "AnswerKey": "A",
-    "bolimId": 1
-  },
-  {
-    "Text": "Odamlar nafas olish uchun nimaga muhtoj?",
-    "A": "Oziq-ovqat",
-    "B": "Oksigen",
-    "C": "Tuz",
-    "D": "Quyosh nuri",
-    "AnswerKey": "B",
-    "bolimId": 1
-  },
-  {
-    "Text": "O‘simliklar kunning qaysi paytida fotosintez qiladi?",
-    "A": "Kechasi",
-    "B": "Kunduzi",
-    "C": "Faqat qishda",
-    "D": "Faqat kuzda",
-    "AnswerKey": "B",
-    "bolimId": 1
-  },
-  {
-    "Text": "Yerning tabiiy yo‘ldoshi nima?",
-    "A": "Quyosh",
-    "B": "Oy",
     "C": "Yulduz",
     "D": "Bulut",
     "AnswerKey": "B",
     "bolimId": 1
   },
   {
-    "Text": "Kamalak nega paydo bo‘ladi?",
-    "A": "Shovqin tufayli",
-    "B": "Quyosh nuri va yomg‘ir tomchilari tufayli",
-    "C": "Shamol tufayli",
-    "D": "Qor tufayli",
+    "Text": "Biz nafas olish uchun havoda qaysi gaz kerak?",
+    "A": "Azot",
+    "B": "Kislorod",
+    "C": "Uglerod gazi",
+    "D": "Hid",
     "AnswerKey": "B",
     "bolimId": 1
   },
   {
-    "Text": "Qaysi biri transport vositasi?",
-    "A": "Kitob",
-    "B": "Stol",
-    "C": "Velosiped",
+    "Text": "Suvning rangi qanday?",
+    "A": "Ko‘k",
+    "B": "Oq",
+    "C": "Shaffof",
+    "D": "Yashil",
+    "AnswerKey": "C",
+    "bolimId": 1
+  },
+  {
+    "Text": "O‘simliklar yashash uchun nimalarga muhtoj?",
+    "A": "Suv, havo, yorug‘lik",
+    "B": "Faqat shamol",
+    "C": "Faqat tuproq",
+    "D": "Faqat issiqlik",
+    "AnswerKey": "A",
+    "bolimId": 1
+  },
+  {
+    "Text": "Qaysi faslda barglar sarg‘ayib to‘kiladi?",
+    "A": "Yozda",
+    "B": "Bahorda",
+    "C": "Kuzda",
+    "D": "Qishda",
+    "AnswerKey": "C",
+    "bolimId": 1
+  },
+  {
+    "Text": "Osmonda kunduz kuni nima ko‘rinadi?",
+    "A": "Oy",
+    "B": "Quyosh",
+    "C": "Yulduz",
     "D": "Chiroq",
-    "AnswerKey": "C",
-    "bolimId": 1
-  },
-  {
-    "Text": "Qaysi narsa elektr energiyasida ishlaydi?",
-    "A": "Qalam",
-    "B": "Telefon",
-    "C": "Daftar",
-    "D": "Tosh",
     "AnswerKey": "B",
     "bolimId": 1
   },
   {
-    "Text": "Qaysi biri tabiiy suv manbai?",
-    "A": "Ko‘l",
-    "B": "Kran",
-    "C": "Shlang",
-    "D": "Idish",
+    "Text": "Qaysi hayvon odamga sut beradi?",
+    "A": "Sigir",
+    "B": "Tovuq",
+    "C": "Ot",
+    "D": "Mushuk",
     "AnswerKey": "A",
     "bolimId": 1
   },
   {
-    "Text": "Qaysi narsa omon qolish uchun zarur emas?",
-    "A": "Suv",
-    "B": "Havo",
-    "C": "Shirinlik",
-    "D": "Ovqat",
-    "AnswerKey": "C",
-    "bolimId": 1
-  },
-  {
-    "Text": "Qaysi turdagi ob-havo iliq bo‘ladi?",
-    "A": "Qish",
-    "B": "Kuz",
-    "C": "Yoz",
-    "D": "Bo‘ron",
-    "AnswerKey": "C",
-    "bolimId": 1
-  },
-  {
-    "Text": "Shamol nimani harakatga keltiradi?",
-    "A": "Daraxt barglarini",
-    "B": "Toshlarni",
-    "C": "Temirni",
-    "D": "Yer sharini",
-    "AnswerKey": "A",
-    "bolimId": 1
-  },
-  {
-    "Text": "Qaysi biri RANG emas?",
-    "A": "Qizil",
-    "B": "Ko‘k",
-    "C": "Yashil",
-    "D": "Issiq",
-    "AnswerKey": "D",
-    "bolimId": 1
-  },
-  {
-    "Text": "Hayvonlarga g‘amxo‘rlik qilish nimani anglatadi?",
-    "A": "Ularni qiynash",
-    "B": "Ovqat va suv berish",
-    "C": "Qamab qo‘yish",
-    "D": "E’tibor bermaslik",
+    "Text": "Tovuq nima qo‘yadi?",
+    "A": "Bola",
+    "B": "Tuxum",
+    "C": "Sut",
+    "D": "O‘t",
     "AnswerKey": "B",
     "bolimId": 1
   },
   {
-    "Text": "Axlatni qayerga tashlash kerak?",
-    "A": "Ko‘chaga",
-    "B": "Daryoga",
-    "C": "Axlat qutisiga",
-    "D": "Yo‘lga",
-    "AnswerKey": "C",
-    "bolimId": 1
-  },
-  {
-    "Text": "Qaysi narsa tirik mavjudot emas?",
-    "A": "Gul",
-    "B": "Qush",
-    "C": "Tosh",
-    "D": "It",
-    "AnswerKey": "C",
-    "bolimId": 1
-  },
-  {
-    "Text": "Yog‘ingarchilik turlari qaysilar?",
-    "A": "Quyosh va shamol",
-    "B": "Qor va yomg‘ir",
-    "C": "Chang va tuman",
-    "D": "Tutun va bug‘",
-    "AnswerKey": "B",
-    "bolimId": 1
-  },
-  {
-    "Text": "Daryo suvi qanday?",
-    "A": "Sho‘r",
-    "B": "Shirin (chuchuk)",
-    "C": "Rangli",
-    "D": "Qalin",
-    "AnswerKey": "B",
-    "bolimId": 1
-  },
-  {
-    "Text": "Odamning necha ko‘zi bor?",
-    "A": "Bir",
-    "B": "Ikki",
-    "C": "Uch",
-    "D": "To‘rt",
-    "AnswerKey": "B",
-    "bolimId": 1
-  },
-  {
-    "Text": "Biz hidni qaysi a’zo bilan sezamiz?",
-    "A": "Ko‘z",
-    "B": "Burun",
+    "Text": "Odamlar qaysi organ bilan eshitadi?",
+    "A": "Burun",
+    "B": "Til",
     "C": "Quloq",
+    "D": "Ko‘z",
+    "AnswerKey": "C",
+    "bolimId": 1
+  },
+  {
+    "Text": "Odamlar yurish uchun nimadan foydalanadi?",
+    "A": "Qo‘l",
+    "B": "Ko‘z",
+    "C": "Oyoq",
+    "D": "Quloq",
+    "AnswerKey": "C",
+    "bolimId": 1
+  },
+  {
+    "Text": "Odamlarning yuragi qayerda joylashgan?",
+    "A": "Chap tomonda",
+    "B": "O‘ng tomonda",
+    "C": "Boshda",
+    "D": "Oyog‘da",
+    "AnswerKey": "A",
+    "bolimId": 1
+  },
+  {
+    "Text": "Quyidagi qaysi biri uy hayvoni?",
+    "A": "Bo‘ri",
+    "B": "Mushuk",
+    "C": "Sher",
+    "D": "Tulki",
+    "AnswerKey": "B",
+    "bolimId": 1
+  },
+  {
+    "Text": "Qaysi hayvon suvsiz yashay olmaydi?",
+    "A": "Baliq",
+    "B": "Tuya",
+    "C": "Ot",
+    "D": "Mushuk",
+    "AnswerKey": "A",
+    "bolimId": 1
+  },
+  {
+    "Text": "Osmondan yomg‘ir yog‘gandan keyin nima paydo bo‘ladi?",
+    "A": "Quyosh",
+    "B": "Kamalak",
+    "C": "Oy",
+    "D": "Shamol",
+    "AnswerKey": "B",
+    "bolimId": 1
+  },
+  {
+    "Text": "Qaysi faslda qor yog‘adi?",
+    "A": "Bahorda",
+    "B": "Yozda",
+    "C": "Qishda",
+    "D": "Kuzda",
+    "AnswerKey": "C",
+    "bolimId": 1
+  },
+  {
+    "Text": "Odamlar ovqatni nima bilan chaynaydi?",
+    "A": "Ko‘z",
+    "B": "Tish",
+    "C": "Til",
     "D": "Qo‘l",
     "AnswerKey": "B",
     "bolimId": 1
   },
   {
-    "Text": "Tovushni qaysi a’zo bilan eshitamiz?",
-    "A": "Ko‘z",
-    "B": "Og‘iz",
-    "C": "Quloq",
-    "D": "Burun",
+    "Text": "Bolalar maktabga nima uchun borishadi?",
+    "A": "O‘ynash uchun",
+    "B": "O‘qish va bilim olish uchun",
+    "C": "Sayohat uchun",
+    "D": "Ovqatlanish uchun",
+    "AnswerKey": "B",
+    "bolimId": 1
+  },
+  {
+    "Text": "Oy qaysi paytda ko‘rinadi?",
+    "A": "Kunduz kuni",
+    "B": "Faqat tongda",
+    "C": "Ko‘pincha kechasi",
+    "D": "Faqat yozda",
     "AnswerKey": "C",
     "bolimId": 1
   },
   {
-    "Text": "Ta’mni qaysi a’zo bilan sezamiz?",
-    "A": "Til",
-    "B": "Ko‘z",
-    "C": "Qo‘l",
-    "D": "Burun",
-    "AnswerKey": "A",
-    "bolimId": 1
-  },
-  {
-    "Text": "O‘simliklar qayerda o‘sadi?",
-    "A": "Suvning ustida",
-    "B": "Tuproqda",
-    "C": "Bulutda",
-    "D": "Havoda",
-    "AnswerKey": "B",
-    "bolimId": 1
-  },
-  {
-    "Text": "Tuproq nimalardan iborat?",
-    "A": "Fakat suvdan",
-    "B": "Qum, loy va chirindi",
-    "C": "Faqat tosh",
-    "D": "Faqat gaz",
-    "AnswerKey": "B",
-    "bolimId": 1
-  },
-  {
-    "Text": "Qaysi narsa jonivor emas?",
-    "A": "Quyon",
-    "B": "Daraxt",
-    "C": "Qush",
-    "D": "Baliq",
-    "AnswerKey": "B",
-    "bolimId": 1
-  },
-  {
-    "Text": "O‘simlikning guli nima qiladi?",
-    "A": "Nafas oladi",
-    "B": "Meva hosil qiladi",
-    "C": "Suv ichadi",
-    "D": "Begona o‘tlarni yo‘q qiladi",
-    "AnswerKey": "B",
-    "bolimId": 1
-  },
-  {
-    "Text": "Insonlar suvni qanday tejaydi?",
-    "A": "Kran ochiq qoldiriladi",
-    "B": "Kichik dush oladi va kranni o‘chiradi",
-    "C": "Suvni ko‘p to‘kadi",
-    "D": "Daryoga axlat tashlaydi",
-    "AnswerKey": "B",
-    "bolimId": 1
-  },
-  {
-    "Text": "Bolalar qaysi joyda xavfsizlik kamarini taqishlari kerak?",
-    "A": "Uyda",
-    "B": "Mashina ichida",
-    "C": "O‘rmon",
-    "D": "Sport zalida",
-    "AnswerKey": "B",
-    "bolimId": 1
-  },
-  {
-    "Text": "Qaysi narsa quyoshdan himoya qiladi?",
-    "A": "Shapka va soyabon",
-    "B": "Tosh",
-    "C": "Qalam",
-    "D": "Kitob",
-    "AnswerKey": "A",
-    "bolimId": 1
-  },
-  {
-    "Text": "Jonzotlarning uyi nima deb ataladi?",
-    "A": "Uyja",
-    "B": "Maskan",
-    "C": "Uyqu",
-    "D": "Oziq",
-    "AnswerKey": "B",
-    "bolimId": 1
-  },
-  {
-    "Text": "Asalarilar qayerdan asal yig‘adi?",
-    "A": "Gullardan",
-    "B": "Daraxt po‘stidan",
-    "C": "Toshdan",
-    "D": "Suvdan",
-    "AnswerKey": "A",
-    "bolimId": 1
-  },
-  {
-    "Text": "Qaysi hayvonning mo‘ylovi bor?",
-    "A": "Mushuk",
-    "B": "Qush",
-    "C": "Baliq",
-    "D": "Ot",
-    "AnswerKey": "A",
-    "bolimId": 1
-  },
-  {
-    "Text": "Qaysi jonivor uy hayvoni?",
-    "A": "Arslon",
-    "B": "Fil",
-    "C": "Sigir",
-    "D": "Bo‘ri",
-    "AnswerKey": "C",
-    "bolimId": 1
-  },
-  {
-    "Text": "Qaysi biri yovvoyi hayvon?",
-    "A": "It",
-    "B": "Sigir",
-    "C": "Bo‘ri",
-    "D": "Tovuq",
-    "AnswerKey": "C",
-    "bolimId": 1
-  },
-  {
-    "Text": "Yomg‘ir nimadan hosil bo‘ladi?",
-    "A": "Bug‘ning sovishi",
-    "B": "Toshlarning erishi",
-    "C": "Shamolning tezlashishi",
-    "D": "Quyoshning botishi",
-    "AnswerKey": "A",
-    "bolimId": 1
-  },
-  {
-    "Text": "Bulutlar nimadan tashkil topgan?",
-    "A": "Toshlar",
-    "B": "Suv tomchilari",
-    "C": "Qum",
-    "D": "Gaz",
-    "AnswerKey": "B",
-    "bolimId": 1
-  },
-  {
-    "Text": "Qaysi narsa eng yengil?",
-    "A": "Havo",
-    "B": "Suv",
-    "C": "Tosh",
-    "D": "Temir",
-    "AnswerKey": "A",
-    "bolimId": 1
-  },
-  {
-    "Text": "Qaysi jins yumshoqroq?",
-    "A": "Tosh",
-    "B": "Gil (loy)",
-    "C": "Temir",
-    "D": "Olov",
-    "AnswerKey": "B",
-    "bolimId": 1
-  },
-  {
-    "Text": "Qaysi biri shirin suv jonzoti?",
-    "A": "Kit",
-    "B": "Dengiz yulduzi",
-    "C": "Daryo baliqlari",
-    "D": "Akula",
-    "AnswerKey": "C",
-    "bolimId": 1
-  },
-  {
-    "Text": "Odamlar qayerda yashashadi?",
-    "A": "Yulduzda",
-    "B": "Oyning ustida",
-    "C": "Yerda",
-    "D": "Bulutda",
-    "AnswerKey": "C",
-    "bolimId": 1
-  },
-  {
-    "Text": "Qaysi jonivor qish uyqusiga ketadi?",
-    "A": "Qarg‘a",
-    "B": "Ayig‘",
-    "C": "Tovuq",
-    "D": "Ot",
-    "AnswerKey": "B",
-    "bolimId": 1
-  },
-  {
-    "Text": "Daraxtlar nimani tozalaydi?",
-    "A": "Suvni",
-    "B": "Havoni",
-    "C": "Yer sharini",
-    "D": "Toshlarni",
-    "AnswerKey": "B",
-    "bolimId": 1
-  },
-  {
-    "Text": "Kuzda barglar odatda qanaqa rangga kiradi?",
-    "A": "Ko‘k",
-    "B": "Qora",
-    "C": "Sariq va qizg‘ish",
-    "D": "Oq",
-    "AnswerKey": "C",
-    "bolimId": 1
-  },
-  {
-    "Text": "Suv ichish uchun qanday suv kerak?",
-    "A": "Iflos suv",
-    "B": "Toza va chuchuk",
-    "C": "Sho‘r suv",
-    "D": "Bo‘yoqli suv",
-    "AnswerKey": "B",
-    "bolimId": 1
-  },
-  {
-    "Text": "Uyda elektr asboblarini kim yoqishi kerak?",
-    "A": "Bolalar",
-    "B": "Kattalar nazorati bilan",
-    "C": "Hech kim",
-    "D": "Har kim",
-    "AnswerKey": "B",
-    "bolimId": 1
-  },
-  {
-    "Text": "Qaysi biri energiya manbai?",
-    "A": "Quyosh",
-    "B": "Qor",
-    "C": "Qum",
-    "D": "To‘n",
-    "AnswerKey": "A",
-    "bolimId": 1
-  },
-  {
-    "Text": "Rang-barang kamalak nechta rangdan iborat (odatda)?",
-    "A": "Uch",
-    "B": "Besh",
-    "C": "Yetti",
-    "D": "To‘rt",
-    "AnswerKey": "C",
-    "bolimId": 1
-  },
-  {
-    "Text": "Yer kurrasi nimadan iborat?",
-    "A": "Faqat suvdan",
-    "B": "Quruqlik va suvdan",
-    "C": "Faqat havodan",
-    "D": "Faqat toshlardan",
-    "AnswerKey": "B",
-    "bolimId": 1
-  },
-  {
-    "Text": "Suv hayot uchun nima?",
-    "A": "Zararsiz",
-    "B": "Keraksiz",
-    "C": "Juda zarur",
-    "D": "Xavfli",
-    "AnswerKey": "C",
-    "bolimId": 1
-  },
-  {
-    "Text": "Mevalar qayerdan olinadi?",
-    "A": "Qurilishdan",
-    "B": "Daraxt va butalardan",
-    "C": "Toshdan",
-    "D": "Yer ostidan",
-    "AnswerKey": "B",
-    "bolimId": 1
-  },
-  {
-    "Text": "Qaysi biri hasharot?",
-    "A": "Asalari",
-    "B": "Quyon",
-    "C": "Baliq",
-    "D": "Qarg‘a",
-    "AnswerKey": "A",
-    "bolimId": 1
-  },
-  {
-    "Text": "Hasharotlarning qancha oyog‘i bo‘ladi (odatda)?",
-    "A": "2",
-    "B": "4",
-    "C": "6",
-    "D": "8",
-    "AnswerKey": "C",
-    "bolimId": 1
-  },
-  {
-    "Text": "O‘rmonlar nima uchun muhim?",
-    "A": "Shovqin chiqaradi",
-    "B": "Havoni tozalaydi va jonivorlar uyi",
-    "C": "Suvni bulg‘aydi",
-    "D": "Issiq qiladi",
-    "AnswerKey": "B",
-    "bolimId": 1
-  },
-  {
-    "Text": "Qaysi biri daraxt mevasidir?",
-    "A": "Sabzi",
-    "B": "Kartoshka",
-    "C": "Olma",
-    "D": "Piyoz",
-    "AnswerKey": "C",
-    "bolimId": 1
-  },
-  {
-    "Text": "Qaysi biri ildizmeva?",
+    "Text": "Quyidagi qaysi biri daraxt mevasidir?",
     "A": "Olma",
-    "B": "Gilos",
+    "B": "Kartoshka",
     "C": "Sabzi",
-    "D": "Uzum",
-    "AnswerKey": "C",
-    "bolimId": 1
-  },
-  {
-    "Text": "Qaysi biri tanlangan to‘g‘ri odob?",
-    "A": "Tabiatni asrash",
-    "B": "Daryoga axlat tashlash",
-    "C": "Qush uyasini buzish",
-    "D": "Daraxtni kesish",
+    "D": "Piyoz",
     "AnswerKey": "A",
     "bolimId": 1
   },
   {
-    "Text": "Suv toshqini nimadan kelib chiqadi?",
-    "A": "Suvning ko‘payishi",
-    "B": "Quyosh botishi",
-    "C": "Bulut ketishi",
-    "D": "Qumning ko‘payishi",
-    "AnswerKey": "A",
-    "bolimId": 1
-  },
-  {
-    "Text": "Shamol qayerdan esadi?",
-    "A": "Hamma tomondan",
-    "B": "Faqat sharqdan",
-    "C": "Faqat g‘arbdan",
-    "D": "Faqat janubdan",
-    "AnswerKey": "A",
-    "bolimId": 1
-  },
-  {
-    "Text": "Qaysi holatda muz eriydi?",
-    "A": "Sovug‘da",
-    "B": "Issiqda",
-    "C": "Tunda",
-    "D": "Soyada",
+    "Text": "Ko‘zimiz nima uchun kerak?",
+    "A": "Eshitish uchun",
+    "B": "Ko‘rish uchun",
+    "C": "Gapirish uchun",
+    "D": "Yurish uchun",
     "AnswerKey": "B",
     "bolimId": 1
   },
   {
-    "Text": "Odamlar qaysi transportda parvoz qiladi?",
-    "A": "Velosiped",
-    "B": "Avtobus",
-    "C": "Samolyot",
-    "D": "Mashina",
-    "AnswerKey": "C",
+    "Text": "Odamlar quloq bilan nima qiladi?",
+    "A": "Ko‘radi",
+    "B": "Eshitadi",
+    "C": "Gapiradi",
+    "D": "Yuradi",
+    "AnswerKey": "B",
     "bolimId": 1
   },
   {
-    "Text": "Qaysi uy hayvoni sut beradi?",
-    "A": "It",
+    "Text": "Quyidagi qaysi biri qush hisoblanadi?",
+    "A": "Ot",
     "B": "Sigir",
-    "C": "Ot",
-    "D": "Qo‘y",
-    "AnswerKey": "B",
-    "bolimId": 1
-  },
-  {
-    "Text": "Qaysi hayvon suyakdan iborat skeletga ega?",
-    "A": "Jelatin",
-    "B": "Mumi",
-    "C": "Ko‘pchilik hayvonlar",
-    "D": "Hech biri",
+    "C": "Kaptar",
+    "D": "Tulki",
     "AnswerKey": "C",
     "bolimId": 1
   },
   {
-    "Text": "Qaysi biri suvni ifloslantiradi?",
-    "A": "Axlat",
-    "B": "Suv o‘tlar",
-    "C": "Toza qum",
-    "D": "Toza muz",
-    "AnswerKey": "A",
-    "bolimId": 1
-  },
-  {
-    "Text": "Yong‘in ko‘rganingizda nima qilasiz?",
-    "A": "Yashirinaman",
-    "B": "Kichik aloqa raqamlariga qo‘ng‘iroq qilaman",
-    "C": "Tez yordam yoki 101 ga qo‘ng‘iroq qilaman",
-    "D": "E’tibor bermayman",
-    "AnswerKey": "C",
-    "bolimId": 1
-  },
-  {
-    "Text": "Qaysi biri tabiiy ofat?",
-    "A": "Bo‘ron",
-    "B": "Chiroq",
-    "C": "Muzqaymoq",
-    "D": "O‘yinchoq",
-    "AnswerKey": "A",
-    "bolimId": 1
-  },
-  {
-    "Text": "Quyosh chiqadigan tomonni nima deymiz?",
-    "A": "G‘arb",
-    "B": "Sharq",
-    "C": "Janub",
-    "D": "Shimol",
+    "Text": "Bolalar qishda sovuqdan himoyalanish uchun nima kiyadi?",
+    "A": "Yengil kiyim",
+    "B": "Qalin kiyim",
+    "C": "Futbolka",
+    "D": "Shapka kiyilmaydi",
     "AnswerKey": "B",
     "bolimId": 1
   },
   {
-    "Text": "Osmonda to‘siqsiz, tiniq kun qanday ataladi?",
-    "A": "Bulutli",
-    "B": "Tumanli",
-    "C": "Ochiq",
-    "D": "Bo‘ronli",
-    "AnswerKey": "C",
-    "bolimId": 1
-  },
-  {
-    "Text": "Daryolar suvini qayerga quyadi?",
-    "A": "Ko‘l va dengizlarga",
-    "B": "Quyoshga",
-    "C": "Bulutga",
-    "D": "Yulduzlarga",
-    "AnswerKey": "A",
-    "bolimId": 1
-  },
-  {
-    "Text": "Chiqindilarni qayta ishlash nima?",
-    "A": "Yondirish",
-    "B": "Qayta foydalanishga tayyorlash",
-    "C": "Ko‘mish",
-    "D": "Suvga tashlash",
+    "Text": "Suv odamlar uchun nima?",
+    "A": "Keraksiz narsa",
+    "B": "Hayot manbai",
+    "C": "Faqat hayvonlarga kerak",
+    "D": "Faqat o‘simliklarga kerak",
     "AnswerKey": "B",
     "bolimId": 1
   },
   {
-    "Text": "Qaysi biri qayta tiklanadigan manba?",
-    "A": "Quyosh nuri",
-    "B": "Ko‘mir",
-    "C": "Neft",
-    "D": "Gaz",
+    "Text": "Quyosh chiqadigan tomonni nima deyiladi?",
+    "A": "Sharq",
+    "B": "G‘arb",
+    "C": "Shimol",
+    "D": "Janub",
     "AnswerKey": "A",
     "bolimId": 1
   },
   {
-    "Text": "Archa qaysi faslda ham yashil bo‘lib qoladi?",
-    "A": "Faqat yozda",
-    "B": "Faqat qishda",
-    "C": "Barcha fasllarda",
-    "D": "Hech qachon",
-    "AnswerKey": "C",
-    "bolimId": 1
-  },
-  {
-    "Text": "Qaysi jonivor suvda ham, quruqlikda ham yashaydi?",
-    "A": "Qarg‘a",
-    "B": "Qurbaqa",
-    "C": "Baliq",
-    "D": "Bo‘ri",
-    "AnswerKey": "B",
-    "bolimId": 1
-  },
-  {
-    "Text": "Odamlar qaysi a’zo bilan ko‘radi?",
-    "A": "Quloq",
-    "B": "Ko‘z",
-    "C": "Burun",
-    "D": "Til",
-    "AnswerKey": "B",
-    "bolimId": 1
-  },
-  {
-    "Text": "Quyosh qachon botadi?",
-    "A": "Tongda",
-    "B": "Kechqurun",
-    "C": "Kunduzi",
-    "D": "Har doim",
-    "AnswerKey": "B",
-    "bolimId": 1
-  },
-  {
-    "Text": "Qaysi narsa kuyishi mumkin?",
-    "A": "Yog‘och",
-    "B": "Suv",
-    "C": "Tosh",
-    "D": "Qor",
+    "Text": "Daraxtlar odamlar uchun nima beradi?",
+    "A": "Kislorod",
+    "B": "Quyosh",
+    "C": "Oy",
+    "D": "Bulut",
     "AnswerKey": "A",
     "bolimId": 1
   },
   {
-    "Text": "Qaysi material suvda eriydi?",
-    "A": "Tuz",
-    "B": "Temir",
-    "C": "Tosh",
-    "D": "Shisha",
-    "AnswerKey": "A",
-    "bolimId": 1
-  },
-  {
-    "Text": "Qaysi material suvda erimaydi?",
-    "A": "Shakar",
-    "B": "Qum",
-    "C": "Tuz",
-    "D": "Limon sharbati",
-    "AnswerKey": "B",
-    "bolimId": 1
-  },
-  {
-    "Text": "Qaysi biri suvni iflos qilmaydi?",
-    "A": "Yog‘ va moy",
-    "B": "Axlat",
-    "C": "Toza barglar",
-    "D": "Kimyoviy modda",
-    "AnswerKey": "C",
-    "bolimId": 1
-  },
-  {
-    "Text": "Qaysi biri yashash joyi (makon)?",
-    "A": "O‘rmon",
-    "B": "Choynak",
-    "C": "Qalam",
-    "D": "Daftar",
-    "AnswerKey": "A",
-    "bolimId": 1
-  },
-  {
-    "Text": "Qaysi jonivor uyquda kunduz, faol kechasi?",
-    "A": "Boyqush",
-    "B": "Tovuq",
-    "C": "Sigir",
-    "D": "Qoplon",
-    "AnswerKey": "A",
-    "bolimId": 1
-  },
-  {
-    "Text": "Qaysi qush suzadi?",
-    "A": "Qarg‘a",
-    "B": "O‘rdak",
-    "C": "Burgut",
-    "D": "Qaldirg‘och",
-    "AnswerKey": "B",
-    "bolimId": 1
-  },
-  {
-    "Text": "Yomg‘irda nimadan foydalanamiz?",
-    "A": "Soyabon",
-    "B": "Qalam",
-    "C": "Rasm",
-    "D": "Soat",
-    "AnswerKey": "A",
-    "bolimId": 1
-  },
-  {
-    "Text": "Qaysi faslda havo eng issiq bo‘ladi?",
-    "A": "Qish",
-    "B": "Yoz",
-    "C": "Kuz",
-    "D": "Bahor",
-    "AnswerKey": "B",
-    "bolimId": 1
-  },
-  {
-    "Text": "Qaysi jonivorlar asalarilarni yeydi?",
-    "A": "Ayig‘",
-    "B": "Bo‘ri",
-    "C": "Qushlar (ba’zilari)",
-    "D": "Sigir",
-    "AnswerKey": "C",
-    "bolimId": 1
-  },
-  {
-    "Text": "Qaysi biri cho‘l o‘simligi?",
-    "A": "Qamish",
-    "B": "Kaktus",
-    "C": "Terak",
-    "D": "Qarag‘ay",
-    "AnswerKey": "B",
-    "bolimId": 1
-  },
-  {
-    "Text": "Suvni tejash uchun kranni qachon o‘chiramiz?",
-    "A": "Tish yuvgandan so‘ng",
-    "B": "Hech qachon",
-    "C": "Doimo ochiq qoldiramiz",
-    "D": "Faqat kechasi",
-    "AnswerKey": "A",
-    "bolimId": 1
-  },
-  {
-    "Text": "Qaysi biri havoni ifloslantiradi?",
-    "A": "Daraxtlar",
-    "B": "Zavod tutuni",
-    "C": "Gullar",
-    "D": "Qor",
-    "AnswerKey": "B",
-    "bolimId": 1
-  },
-  {
-    "Text": "Qaysi biri havoni tozalaydi?",
-    "A": "Tutun",
-    "B": "Chang",
-    "C": "O‘simliklar",
-    "D": "Gaz",
-    "AnswerKey": "C",
-    "bolimId": 1
-  },
-  {
-    "Text": "Qaysi suv ichish uchun mos?",
-    "A": "Iflos",
-    "B": "Tiniq va qaynatilgan",
-    "C": "Dengiz suvi",
-    "D": "Bo‘yoqli suv",
-    "AnswerKey": "B",
-    "bolimId": 1
-  },
-  {
-    "Text": "Qaysi narsa sirpanadi?",
-    "A": "Muz",
-    "B": "Qum",
-    "C": "Gil",
-    "D": "Tosh",
-    "AnswerKey": "A",
-    "bolimId": 1
-  },
-  {
-    "Text": "Qaysi narsa suzadi?",
-    "A": "Yog‘och tayoq",
-    "B": "Tosh",
-    "C": "Temir",
-    "D": "Tanga",
-    "AnswerKey": "A",
-    "bolimId": 1
-  },
-  {
-    "Text": "Qaysi jonivor tuxumdan chiqadi?",
+    "Text": "Qaysi hayvon odamlarni uyini qo‘riqlashda yordam beradi?",
     "A": "Mushuk",
     "B": "It",
-    "C": "Qush",
-    "D": "Sigir",
-    "AnswerKey": "C",
-    "bolimId": 1
-  },
-  {
-    "Text": "Bolalar yo‘lda qayerdan o‘tishlari kerak?",
-    "A": "Istalgan joydan",
-    "B": "Piyodalar o‘tish joyidan",
-    "C": "Yo‘l o‘rtasidan",
-    "D": "Chorrahadan",
+    "C": "Sigir",
+    "D": "Tovuq",
     "AnswerKey": "B",
     "bolimId": 1
   },
   {
-    "Text": "Quyoshga to‘g‘ridan-to‘g‘ri tikilib turish to‘g‘rimi?",
-    "A": "Ha",
-    "B": "Yo‘q",
-    "C": "Ba’zan",
-    "D": "Faqat kuzda",
-    "AnswerKey": "B",
-    "bolimId": 1
-  },
-  {
-    "Text": "O‘simliklarga ko‘p suv berish to‘g‘rimi?",
-    "A": "Har doim ko‘p",
-    "B": "Me’yorida",
-    "C": "Hech qachon",
-    "D": "Faqat kechasi",
-    "AnswerKey": "B",
-    "bolimId": 1
-  },
-  {
-    "Text": "Qaysi meva daraxtda o‘sadi?",
-    "A": "Pomidor",
-    "B": "Bodring",
-    "C": "Gilos",
-    "D": "Kartoshka",
+    "Text": "Qaysi hasharot asal tayyorlaydi?",
+    "A": "Pashsha",
+    "B": "Chumoli",
+    "C": "Asalari",
+    "D": "Chigirtka",
     "AnswerKey": "C",
     "bolimId": 1
   },
-  {
-    "Text": "Qaysi biri daraxt emas?",
-    "A": "Terak",
-    "B": "Qarag‘ay",
-    "C": "Gul",
-    "D": "Tol",
-    "AnswerKey": "C",
-    "bolimId": 1
-  }
-]
+
+  
+    {
+      "Text": "Osmondagi yulduzlar qaysi paytda ko‘rinadi?",
+      "A": "Kunduz",
+      "B": "Kechasi",
+      "C": "Har doim",
+      "D": "Bahorda",
+      "AnswerKey": "B",
+      "bolimId": 1
+    },
+    {
+      "Text": "Qaysi hayvonning mo‘ynasi oq bo‘ladi va sovuq joylarda yashaydi?",
+      "A": "Ayiq",
+      "B": "Qoplon",
+      "C": "Oq ayiq",
+      "D": "Tulki",
+      "AnswerKey": "C",
+      "bolimId": 1
+    },
+    {
+      "Text": "Qushlar nima yordamida uchadi?",
+      "A": "Qanotlari",
+      "B": "Oyog‘i",
+      "C": "Dumi",
+      "D": "Tumshug‘i",
+      "AnswerKey": "A",
+      "bolimId": 1
+    },
+    {
+      "Text": "Qaysi faslda gullar ochiladi?",
+      "A": "Kuz",
+      "B": "Yoz",
+      "C": "Qish",
+      "D": "Bahor",
+      "AnswerKey": "D",
+      "bolimId": 1
+    },
+    {
+      "Text": "Shamol nimani harakatga keltiradi?",
+      "A": "Toshlarni",
+      "B": "Barglarni",
+      "C": "Suvni",
+      "D": "Yer sharini",
+      "AnswerKey": "B",
+      "bolimId": 1
+    },
+    {
+      "Text": "Odamlar hidni qaysi a’zo bilan sezadi?",
+      "A": "Til",
+      "B": "Burun",
+      "C": "Quloq",
+      "D": "Qo‘l",
+      "AnswerKey": "B",
+      "bolimId": 1
+    },
+    {
+      "Text": "Odam tanasida eng katta a’zo qaysi?",
+      "A": "Yurak",
+      "B": "Teri",
+      "C": "O‘pka",
+      "D": "Bosh",
+      "AnswerKey": "B",
+      "bolimId": 1
+    },
+    {
+      "Text": "Qaysi transport vositasi suvda yuradi?",
+      "A": "Mashina",
+      "B": "Kema",
+      "C": "Velosiped",
+      "D": "Poyezd",
+      "AnswerKey": "B",
+      "bolimId": 1
+    },
+    {
+      "Text": "Qaysi meva to‘q sariq rangda bo‘ladi?",
+      "A": "Olma",
+      "B": "Anor",
+      "C": "Apelsin",
+      "D": "Uzum",
+      "AnswerKey": "C",
+      "bolimId": 1
+    },
+    {
+      "Text": "Quyosh botadigan tomonni nima deyiladi?",
+      "A": "Sharq",
+      "B": "G‘arb",
+      "C": "Shimol",
+      "D": "Janub",
+      "AnswerKey": "B",
+      "bolimId": 1
+    },
+    {
+      "Text": "Odamlar chanqaganda nima ichadi?",
+      "A": "Sut",
+      "B": "Suv",
+      "C": "Choy",
+      "D": "Sharbat",
+      "AnswerKey": "B",
+      "bolimId": 1
+    },
+    {
+      "Text": "Odamlar qo‘llarida nechta barmoq bor?",
+      "A": "5",
+      "B": "10",
+      "C": "20",
+      "D": "8",
+      "AnswerKey": "B",
+      "bolimId": 1
+    },
+    {
+      "Text": "Sigirdan yana nimalar olinadi?",
+      "A": "Sut va go‘sht",
+      "B": "Faqat tuxum",
+      "C": "Faqat jun",
+      "D": "Faqat asal",
+      "AnswerKey": "A",
+      "bolimId": 1
+    },
+    {
+      "Text": "Bolalar bog‘da nima ekishadi?",
+      "A": "Mashina",
+      "B": "Gul va daraxt",
+      "C": "Uy",
+      "D": "Chiroq",
+      "AnswerKey": "B",
+      "bolimId": 1
+    },
+    {
+      "Text": "Qaysi hayvon suvda suzadi?",
+      "A": "Ot",
+      "B": "Sigir",
+      "C": "Baliq",
+      "D": "Tulki",
+      "AnswerKey": "C",
+      "bolimId": 1
+    },
+    {
+      "Text": "Yer yuzasida odamlar nima yordamida yuradi?",
+      "A": "Oyoq",
+      "B": "Qo‘l",
+      "C": "Ko‘z",
+      "D": "Quloq",
+      "AnswerKey": "A",
+      "bolimId": 1
+    },
+    {
+      "Text": "Kechasi yo‘lni yoritadigan narsa nima?",
+      "A": "Quyosh",
+      "B": "Oy",
+      "C": "Bulut",
+      "D": "Shamol",
+      "AnswerKey": "B",
+      "bolimId": 1
+    },
+    {
+      "Text": "Qaysi hayvon tuxum qo‘yadi?",
+      "A": "Sigir",
+      "B": "Tovuq",
+      "C": "Ot",
+      "D": "It",
+      "AnswerKey": "B",
+      "bolimId": 1
+    },
+    {
+      "Text": "Osmonda yomg‘ir bilan birga ko‘pincha nima chaqnaydi?",
+      "A": "Oy",
+      "B": "Yashin",
+      "C": "Kamalak",
+      "D": "Shamol",
+      "AnswerKey": "B",
+      "bolimId": 1
+    },
+    {
+      "Text": "Qaysi faslda odamlar paxta teradi?",
+      "A": "Yoz",
+      "B": "Kuz",
+      "C": "Qish",
+      "D": "Bahor",
+      "AnswerKey": "B",
+      "bolimId": 1
+    },
+    {
+      "Text": "Odamlar nimalar bilan ovqat yeydi?",
+      "A": "Choynak",
+      "B": "Qo‘l yoki qoshiq",
+      "C": "Qalam",
+      "D": "Daftar",
+      "AnswerKey": "B",
+      "bolimId": 1
+    },
+    {
+      "Text": "Odamlarning tilidan qanday foyda bor?",
+      "A": "Eshitish uchun",
+      "B": "Gapirish va ta’m bilish uchun",
+      "C": "Ko‘rish uchun",
+      "D": "Yurish uchun",
+      "AnswerKey": "B",
+      "bolimId": 1
+    },
+    {
+      "Text": "Qaysi hayvon tez chopadi?",
+      "A": "Tovuq",
+      "B": "Ot",
+      "C": "Sigir",
+      "D": "Baliq",
+      "AnswerKey": "B",
+      "bolimId": 1
+    },
+    {
+      "Text": "Odamlar kiyimni nimadan tikishadi?",
+      "A": "Temir",
+      "B": "Mato",
+      "C": "Shisha",
+      "D": "Tosh",
+      "AnswerKey": "B",
+      "bolimId": 1
+    },
+    {
+      "Text": "Qaysi transport vositasi uchadi?",
+      "A": "Avtobus",
+      "B": "Samolyot",
+      "C": "Kema",
+      "D": "Mashina",
+      "AnswerKey": "B",
+      "bolimId": 1
+    },
+    {
+      "Text": "Chiroqlar yoqilmasa kechasi uy ichida nima bo‘ladi?",
+      "A": "Yorug‘lik",
+      "B": "Qorong‘ilik",
+      "C": "Issiqlik",
+      "D": "Shamol",
+      "AnswerKey": "B",
+      "bolimId": 1
+    },
+    {
+      "Text": "Qaysi meva qishda ko‘p iste’mol qilinadi?",
+      "A": "Tarvuz",
+      "B": "Qovun",
+      "C": "Anor",
+      "D": "Bodring",
+      "AnswerKey": "C",
+      "bolimId": 1
+    },
+    {
+      "Text": "Qushlarning tumshug‘i nima uchun kerak?",
+      "A": "Ovqat yeyish uchun",
+      "B": "Uxlash uchun",
+      "C": "Uchish uchun",
+      "D": "O‘ynash uchun",
+      "AnswerKey": "A",
+      "bolimId": 1
+    },
+    {
+      "Text": "Yer sharini nima o‘rab turadi?",
+      "A": "Bulut",
+      "B": "Atmosfera",
+      "C": "Daraxt",
+      "D": "Quyosh",
+      "AnswerKey": "B",
+      "bolimId": 1
+    },
+    {
+      "Text": "Qishda odamlar sovuqdan asrash uchun nima ichadi?",
+      "A": "Sovuq suv",
+      "B": "Issiq choy",
+      "C": "Sharbat",
+      "D": "Muzqaymoq",
+      "AnswerKey": "B",
+      "bolimId": 1
+    },
+    {
+      "Text": "Chumolilar nimada yuradi?",
+      "A": "Yerda",
+      "B": "Havoda",
+      "C": "Suvda",
+      "D": "Daraxtda",
+      "AnswerKey": "A",
+      "bolimId": 1
+    },
+    {
+      "Text": "Yoz faslida ob-havo qanday bo‘ladi?",
+      "A": "Sovuq",
+      "B": "Issiq",
+      "C": "Qorli",
+      "D": "Shamolli",
+      "AnswerKey": "B",
+      "bolimId": 1
+    },
+    {
+      "Text": "Kundalik daftar nima uchun kerak?",
+      "A": "Ovqat saqlash uchun",
+      "B": "Uy vazifalarini yozish uchun",
+      "C": "Rang berish uchun",
+      "D": "O‘ynash uchun",
+      "AnswerKey": "B",
+      "bolimId": 1
+    },
+    {
+      "Text": "Maktabda bolalar nima o‘rganadi?",
+      "A": "Bilim",
+      "B": "Uxlash",
+      "C": "Ovqat qilish",
+      "D": "Chopish",
+      "AnswerKey": "A",
+      "bolimId": 1
+    },
+    {
+      "Text": "Odamlar soat yordamida nimani bilishadi?",
+      "A": "Yo‘l",
+      "B": "Vaqt",
+      "C": "Yil",
+      "D": "Kun",
+      "AnswerKey": "B",
+      "bolimId": 1
+    },
+    {
+      "Text": "Qaysi hayvon eng kichkina hasharotlarni yeydi?",
+      "A": "Mushuk",
+      "B": "Qaldirg‘och",
+      "C": "Sigir",
+      "D": "Ot",
+      "AnswerKey": "B",
+      "bolimId": 1
+    },
+    {
+      "Text": "Bolalar yozda qayerda cho‘milishadi?",
+      "A": "Ko‘l yoki daryo",
+      "B": "Uyda",
+      "C": "O‘rmonda",
+      "D": "Maktabda",
+      "AnswerKey": "A",
+      "bolimId": 1
+    },
+    {
+      "Text": "Qaysi faslda yangi mevalar ko‘proq bo‘ladi?",
+      "A": "Qish",
+      "B": "Yoz",
+      "C": "Kuz",
+      "D": "Bahor",
+      "AnswerKey": "B",
+      "bolimId": 1
+    },
+
+
+    
+      {
+        "Text": "Quyosh chiqsa havo qanday bo‘ladi?",
+        "A": "Yorug‘ bo‘ladi",
+        "B": "Soviydi",
+        "C": "Qor yog‘adi",
+        "D": "Bulutli bo‘ladi",
+        "AnswerKey": "A",
+        "bolimId": 1
+      },
+      {
+        "Text": "Chumolilar qanday yashaydi?",
+        "A": "Yakka holda",
+        "B": "Guruh bo‘lib",
+        "C": "Suvda",
+        "D": "Osmonda",
+        "AnswerKey": "B",
+        "bolimId": 1
+      },
+      {
+        "Text": "Qaysi hayvon suvda yashaydi?",
+        "A": "Baliq",
+        "B": "Mushuk",
+        "C": "Ot",
+        "D": "Sigir",
+        "AnswerKey": "A",
+        "bolimId": 1
+      },
+      {
+        "Text": "Quyidagi qaysi biri o‘simlik mevasidir?",
+        "A": "Olma",
+        "B": "Qanot",
+        "C": "Pat",
+        "D": "Tish",
+        "AnswerKey": "A",
+        "bolimId": 1
+      },
+      {
+        "Text": "Odamlar suvni nima uchun ichadi?",
+        "A": "Sog‘liq uchun",
+        "B": "Yorug‘lik uchun",
+        "C": "Shamol uchun",
+        "D": "O‘yin uchun",
+        "AnswerKey": "A",
+        "bolimId": 1
+      },
+      {
+        "Text": "Bulutdan nimalar yog‘adi?",
+        "A": "Yomg‘ir yoki qor",
+        "B": "Toshlar",
+        "C": "Quyosh nuri",
+        "D": "Shamol",
+        "AnswerKey": "A",
+        "bolimId": 1
+      },
+      {
+        "Text": "Quyidagi jonivorlardan qaysi biri uchadi?",
+        "A": "Qaldirg‘och",
+        "B": "Baliq",
+        "C": "Ot",
+        "D": "Toshbaqa",
+        "AnswerKey": "A",
+        "bolimId": 1
+      },
+      {
+        "Text": "Yer yuzida yashil rangli qoplama nima?",
+        "A": "O‘rmon",
+        "B": "Cho‘l",
+        "C": "Dengiz",
+        "D": "Bulut",
+        "AnswerKey": "A",
+        "bolimId": 1
+      },
+      {
+        "Text": "Odamlar nafas olayotganda havodan nima oladi?",
+        "A": "Kislorod",
+        "B": "Suv",
+        "C": "Tuz",
+        "D": "Issiqlik",
+        "AnswerKey": "A",
+        "bolimId": 1
+      },
+      {
+        "Text": "Sigir odamlar uchun nima beradi?",
+        "A": "Sut",
+        "B": "Tuxum",
+        "C": "Yog‘och",
+        "D": "Qanot",
+        "AnswerKey": "A",
+        "bolimId": 1
+      },
+      {
+        "Text": "Qaysi faslda qordan odam yasash mumkin?",
+        "A": "Qishda",
+        "B": "Bahorda",
+        "C": "Yozda",
+        "D": "Kuzda",
+        "AnswerKey": "A",
+        "bolimId": 1
+      },
+      {
+        "Text": "Suvsiz odam qancha yashashi mumkin?",
+        "A": "Bir necha kun",
+        "B": "Umr bo‘yi",
+        "C": "Bir yil",
+        "D": "Hech qancha",
+        "AnswerKey": "A",
+        "bolimId": 1
+      },
+      {
+        "Text": "O‘simlik barglari qaysi rangda bo‘ladi?",
+        "A": "Ko‘pincha yashil",
+        "B": "Har doim qora",
+        "C": "Har doim oq",
+        "D": "Hech rangsiz",
+        "AnswerKey": "A",
+        "bolimId": 1
+      },
+      {
+        "Text": "Odamlar sog‘lom bo‘lishi uchun nimalar kerak?",
+        "A": "Toza suv va ovqat",
+        "B": "Faqat shamol",
+        "C": "Faqat qor",
+        "D": "Faqat o‘yinchoq",
+        "AnswerKey": "A",
+        "bolimId": 1
+      },
+      {
+        "Text": "Qaysi jonivor uchmaydi?",
+        "A": "Qaldirg‘och",
+        "B": "Burgut",
+        "C": "Ot",
+        "D": "Kapalak",
+        "AnswerKey": "C",
+        "bolimId": 1
+      },
+      {
+        "Text": "Daraxtning poyasi nima uchun kerak?",
+        "A": "O‘simlikni tik tutadi",
+        "B": "Havo chiqaradi",
+        "C": "Qushlar uchadi",
+        "D": "Quyosh tarqatadi",
+        "AnswerKey": "A",
+        "bolimId": 1
+      },
+      {
+        "Text": "Quyidagi narsalardan qaysi biri inson tanasi uchun zararli?",
+        "A": "If los suv",
+        "B": "Toza havo",
+        "C": "Sog‘lom ovqat",
+        "D": "Sut",
+        "AnswerKey": "A",
+        "bolimId": 1
+      },
+      {
+        "Text": "Yomg‘irdan odamlar o‘zini qanday asraydi?",
+        "A": "Soyabon bilan",
+        "B": "Mashina bilan",
+        "C": "Qor bilan",
+        "D": "Oy bilan",
+        "AnswerKey": "A",
+        "bolimId": 1
+      },
+      {
+        "Text": "Tunda osmondan nimani ko‘ramiz?",
+        "A": "Oy va yulduzlar",
+        "B": "Quyosh",
+        "C": "Daraxtlar",
+        "D": "Uylar",
+        "AnswerKey": "A",
+        "bolimId": 1
+      },
+      {
+        "Text": "Havoda ko‘p bo‘lsa odamlar qiynaladi. Bu nima?",
+        "A": "Chiqindi tutuni",
+        "B": "Kislorod",
+        "C": "Suv bug‘i",
+        "D": "Bulut",
+        "AnswerKey": "A",
+        "bolimId": 1
+      }
+    ]
+    
+  
+

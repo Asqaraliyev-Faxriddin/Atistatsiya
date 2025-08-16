@@ -1,1082 +1,810 @@
 [
   {
-    "Text": "Yerning asosiy issiqlik manbai nima?",
-    "A": "Quyosh",
-    "B": "Oy",
-    "C": "Yulduzlar",
-    "D": "Vulkanlar",
+    "Text": "Botanik olimlar o‘simliklarni nechta katta guruhga ajratadilar?",
+    "A": "3 ta",
+    "B": "4 ta",
+    "C": "5 ta",
+    "D": "6 ta",
+    "AnswerKey": "C",
+    "bolimId": 4
+  },
+  {
+    "Text": "Mox qanday turdagi o‘simlik hisoblanadi?",
+    "A": "Daraxtga chirmashadi",
+    "B": "Cho‘lda o‘sadi",
+    "C": "Suv o‘tlaridan biri",
+    "D": "O‘simlik pishiriq",
+    "AnswerKey": "C",
+    "bolimId": 4
+  },
+  {
+    "Text": "Paporotnik o‘simligi qanday tuzilgan?",
+    "A": "Poya va bargdan",
+    "B": "Gul va bargdan",
+    "C": "Ildiz, poya va bargdan",
+    "D": "Faqat bargdan",
+    "AnswerKey": "C",
+    "bolimId": 4
+  },
+  {
+    "Text": "Gulli o‘simlik barglari qanday turlarga bo‘linadi?",
+    "A": "Oddiy va murakkab",
+    "B": "Yapaloq va ignasimon",
+    "C": "Ba’zida o‘zboshimchalik",
+    "D": "Faqat murakkab",
     "AnswerKey": "A",
     "bolimId": 4
   },
   {
-    "Text": "O‘simliklar qaysi gazni yutadi?",
-    "A": "Kislorod",
-    "B": "Azot",
-    "C": "Uglerod(IV)-oksid",
-    "D": "Vodorod",
-    "AnswerKey": "C",
+    "Text": "Fotosintez jarayonida asosiy rolni qanday pig­ment bajaradi?",
+    "A": "Xlorofil",
+    "B": "Karotin",
+    "C": "Ksantofill",
+    "D": "Antotsian",
+    "AnswerKey": "A",
     "bolimId": 4
   },
   {
-    "Text": "Qaysi hayvon sutemizuvchidir?",
-    "A": "Baqa",
-    "B": "Baliq",
-    "C": "Sigir",
-    "D": "To‘tiqush",
-    "AnswerKey": "C",
-    "bolimId": 4
-  },
-  {
-    "Text": "Qaysi biri daraxt emas?",
-    "A": "Terak",
-    "B": "Qarag‘ay",
-    "C": "Gul",
-    "D": "Tol",
-    "AnswerKey": "C",
-    "bolimId": 4
-  },
-  {
-    "Text": "Quyosh tizimida eng katta sayyora qaysi?",
-    "A": "Yer",
-    "B": "Yupiter",
-    "C": "Mars",
-    "D": "Venera",
+    "Text": "Fotosintez ta’sirida nima hosil boʻladi?",
+    "A": "Suv",
+    "B": "Oziq moddalar (glyukoza)",
+    "C": "Gaz",
+    "D": "Yog‘",
     "AnswerKey": "B",
     "bolimId": 4
   },
   {
-    "Text": "Qaysi biri suv havzasiga kirmaydi?",
-    "A": "Ko‘l",
-    "B": "Daryo",
-    "C": "Tog‘",
-    "D": "Dengiz",
-    "AnswerKey": "C",
-    "bolimId": 4
-  },
-  {
-    "Text": "Odamlar nafas olayotganda qaysi gazni chiqaradi?",
-    "A": "Kislorod",
-    "B": "Uglerod(IV)-oksid",
-    "C": "Azot",
-    "D": "Vodorod",
+    "Text": "Nima sababdan barglar rangini o‘zgartiradi?",
+    "A": "Xlorofil ortishi",
+    "B": "Karotin, ksantofill, antotsian moddalar",
+    "C": "Suv yo‘qolishi",
+    "D": "Quyosh to‘kilishi",
     "AnswerKey": "B",
     "bolimId": 4
   },
   {
-    "Text": "Qaysi qush ucholmaydi?",
-    "A": "Qarg‘a",
-    "B": "Pingvin",
-    "C": "Qaldirg‘och",
-    "D": "Lochin",
+    "Text": "Xlorofil miqdori ortganda barglar qanday rangda bo‘ladi?",
+    "A": "Qizil",
+    "B": "To‘q yashil",
+    "C": "Sariq",
+    "D": "Oq",
     "AnswerKey": "B",
     "bolimId": 4
   },
   {
-    "Text": "Yerning markazida nima joylashgan?",
-    "A": "Magma",
-    "B": "Yadro",
-    "C": "Qobiq",
-    "D": "Atmosfera",
-    "AnswerKey": "B",
-    "bolimId": 4
-  },
-  {
-    "Text": "Fotosintez uchun nima kerak?",
+    "Text": "Fotosintez qaysi omil ishtirokida sodir bo‘ladi?",
     "A": "Quyosh nuri",
-    "B": "Tuz",
-    "C": "Temir",
-    "D": "Kislorod",
+    "B": "Sovuq havo",
+    "C": "Quvvat",
+    "D": "Shamol",
     "AnswerKey": "A",
     "bolimId": 4
   },
   {
-    "Text": "Qaysi jonivor suvda yashaydi?",
-    "A": "Bo‘ri",
-    "B": "Baliq",
-    "C": "Ot",
-    "D": "Sigir",
-    "AnswerKey": "B",
-    "bolimId": 4
-  },
-  {
-    "Text": "Qaysi modda suvda eriydi?",
-    "A": "Tuz",
-    "B": "Temir",
-    "C": "Yog‘",
-    "D": "Oltin",
+    "Text": "Barg qaysi ikki asosiy funksiyani bajara oladi?",
+    "A": "Nafas oladi va o‘sadi",
+    "B": "Yorug‘likni so‘radi va qulog‘ni himoya qiladi",
+    "C": "Suvni chiqazadi va soviydi",
+    "D": "Ildiz hosil qiladi va barg yaratadi",
     "AnswerKey": "A",
     "bolimId": 4
   },
   {
-    "Text": "Tuproq tarkibida nima bo‘ladi?",
-    "A": "Quyosh nuri",
-    "B": "Havo",
-    "C": "Elektr toki",
-    "D": "Shisha",
+    "Text": "Havo harakatidagi fan nomi qanday?",
+    "A": "Biologiya",
+    "B": "Aerodinamika",
+    "C": "Geografiya",
+    "D": "Meteorologiya",
     "AnswerKey": "B",
     "bolimId": 4
   },
   {
-    "Text": "Qaysi biri daraxt emas?",
-    "A": "Terak",
-    "B": "Qarag‘ay",
-    "C": "Gul",
-    "D": "Tol",
+    "Text": "Arilarning uchish sababi nima bilan bog‘liq?",
+    "A": "Qanot uzunligi",
+    "B": "Tana og‘irligi",
+    "C": "Juda tez qanot qoqish",
+    "D": "Sog‘lom ovqat",
     "AnswerKey": "C",
     "bolimId": 4
   },
   {
-    "Text": "Quyosh tizimida eng katta sayyora qaysi?",
-    "A": "Yer",
-    "B": "Yupiter",
-    "C": "Mars",
-    "D": "Venera",
-    "AnswerKey": "B",
-    "bolimId": 4
-  },
-  {
-    "Text": "Qaysi biri suv havzasiga kirmaydi?",
-    "A": "Ko‘l",
-    "B": "Daryo",
-    "C": "Tog‘",
-    "D": "Dengiz",
+    "Text": "O‘simliklar nafas olish, oziqlanish va boshqa hayotiy faoliyat bilan shug‘ullanadi. Bu qaysi xususiyat?",
+    "A": "Faqat o‘sish",
+    "B": "Ko‘payish",
+    "C": "Hayotiy funktsiya",
+    "D": "Yorug‘lik qabul qilish",
     "AnswerKey": "C",
     "bolimId": 4
   },
   {
-    "Text": "Odamlar nafas olayotganda qaysi gazni chiqaradi?",
-    "A": "Kislorod",
-    "B": "Uglerod(IV)-oksid",
-    "C": "Azot",
-    "D": "Vodorod",
+    "Text": "O‘simliklar karbonat angidridni kislorodga aylantiradi. Bu jarayon nima deb ataladi?",
+    "A": "Nafas olish",
+    "B": "Fotosintez",
+    "C": "Parvoz",
+    "D": "Uchish",
     "AnswerKey": "B",
     "bolimId": 4
   },
   {
-    "Text": "Qaysi qush ucholmaydi?",
-    "A": "Qarg‘a",
-    "B": "Pingvin",
-    "C": "Qaldirg‘och",
-    "D": "Lochin",
+    "Text": "Botanish boʻyicha fanlar o‘simliklarni guruhlashda qanday mezonga asoslanadi?",
+    "A": "Uchishga asoslangan",
+    "B": "Gullar, barg, payvand, ildiz",
+    "C": "Havoning hidi",
+    "D": "Rangiga qarab",
     "AnswerKey": "B",
     "bolimId": 4
   },
   {
-    "Text": "Yerning markazida nima joylashgan?",
-    "A": "Magma",
-    "B": "Yadro",
-    "C": "Qobiq",
-    "D": "Atmosfera",
+    "Text": "Mox odatda qaerda o‘sadi?",
+    "A": "Suv ostida",
+    "B": "Daraxt tagida, toshlar ustida",
+    "C": "Sahroda",
+    "D": "Xolatsiz joyda",
     "AnswerKey": "B",
     "bolimId": 4
   },
   {
-    "Text": "Fotosintez uchun nima kerak?",
-    "A": "Quyosh nuri",
-    "B": "Tuz",
-    "C": "Temir",
-    "D": "Kislorod",
+    "Text": "Suv o‘tlari eng uzun bo‘lgan o‘simlik turi qanday?",
+    "A": "200 metr",
+    "B": "300 metr",
+    "C": "100 metr",
+    "D": "500 metr",
     "AnswerKey": "A",
     "bolimId": 4
   },
   {
-    "Text": "Qaysi jonivor suvda yashaydi?",
-    "A": "Bo‘ri",
-    "B": "Baliq",
-    "C": "Ot",
-    "D": "Sigir",
+    "Text": "Botanika fani o‘simliklarni qanday tartibga soladi?",
+    "A": "Sezgi asosida",
+    "B": "Tuzilish va rivojlanish asosida",
+    "C": "Ovqat olish asosida",
+    "D": "Ijodiy belgilar asosida",
     "AnswerKey": "B",
     "bolimId": 4
   },
   {
-    "Text": "Qaysi modda suvda eriydi?",
-    "A": "Tuz",
-    "B": "Temir",
-    "C": "Yog‘",
-    "D": "Oltin",
+    "Text": "Gulli o‘simliklarda urug‘ nima yordamida yaratiladi?",
+    "A": "Gulda",
+    "B": "Ildizda",
+    "C": "Poyada",
+    "D": "Bargda",
     "AnswerKey": "A",
     "bolimId": 4
   },
   {
-    "Text": "Tuproq tarkibida nima bo‘ladi?",
-    "A": "Quyosh nuri",
-    "B": "Havo",
-    "C": "Elektr toki",
-    "D": "Shisha",
+    "Text": "Lil bilan eshikni qanday bog‘lash mumkin?",
+    "A": "Og‘irlik orqali",
+    "B": "Mexanizm orqali",
+    "C": "Imkoniyat bilan",
+    "D": "Ildiz orqali",
     "AnswerKey": "B",
     "bolimId": 4
   },
-  {
-    "Text": "Qaysi biri daraxt emas?",
-    "A": "Terak",
-    "B": "Qarag‘ay",
-    "C": "Gul",
-    "D": "Tol",
-    "AnswerKey": "C",
-    "bolimId": 4
-  },
-  {
-    "Text": "Quyosh tizimida eng katta sayyora qaysi?",
-    "A": "Yer",
-    "B": "Yupiter",
-    "C": "Mars",
-    "D": "Venera",
-    "AnswerKey": "B",
-    "bolimId": 4
-  },
-  {
-    "Text": "Qaysi biri suv havzasiga kirmaydi?",
-    "A": "Ko‘l",
-    "B": "Daryo",
-    "C": "Tog‘",
-    "D": "Dengiz",
-    "AnswerKey": "C",
-    "bolimId": 4
-  },
-  {
-    "Text": "Odamlar nafas olayotganda qaysi gazni chiqaradi?",
-    "A": "Kislorod",
-    "B": "Uglerod(IV)-oksid",
-    "C": "Azot",
-    "D": "Vodorod",
-    "AnswerKey": "B",
-    "bolimId": 4
-  },
-  {
-    "Text": "Qaysi qush ucholmaydi?",
-    "A": "Qarg‘a",
-    "B": "Pingvin",
-    "C": "Qaldirg‘och",
-    "D": "Lochin",
-    "AnswerKey": "B",
-    "bolimId": 4
-  },
-  {
-    "Text": "Yerning markazida nima joylashgan?",
-    "A": "Magma",
-    "B": "Yadro",
-    "C": "Qobiq",
-    "D": "Atmosfera",
-    "AnswerKey": "B",
-    "bolimId": 4
-  },
-  {
-    "Text": "Fotosintez uchun nima kerak?",
-    "A": "Quyosh nuri",
-    "B": "Tuz",
-    "C": "Temir",
-    "D": "Kislorod",
-    "AnswerKey": "A",
-    "bolimId": 4
-  },
-  {
-    "Text": "Qaysi jonivor suvda yashaydi?",
-    "A": "Bo‘ri",
-    "B": "Baliq",
-    "C": "Ot",
-    "D": "Sigir",
-    "AnswerKey": "B",
-    "bolimId": 4
-  },
-  {
-    "Text": "Qaysi modda suvda eriydi?",
-    "A": "Tuz",
-    "B": "Temir",
-    "C": "Yog‘",
-    "D": "Oltin",
-    "AnswerKey": "A",
-    "bolimId": 4
-  },
-  {
-    "Text": "Tuproq tarkibida nima bo‘ladi?",
-    "A": "Quyosh nuri",
-    "B": "Havo",
-    "C": "Elektr toki",
-    "D": "Shisha",
-    "AnswerKey": "B",
-    "bolimId": 4
-  },
-  {
-    "Text": "Qaysi biri daraxt emas?",
-    "A": "Terak",
-    "B": "Qarag‘ay",
-    "C": "Gul",
-    "D": "Tol",
-    "AnswerKey": "C",
-    "bolimId": 4
-  },
-  {
-    "Text": "Quyosh tizimida eng katta sayyora qaysi?",
-    "A": "Yer",
-    "B": "Yupiter",
-    "C": "Mars",
-    "D": "Venera",
-    "AnswerKey": "B",
-    "bolimId": 4
-  },
-  {
-    "Text": "Qaysi biri suv havzasiga kirmaydi?",
-    "A": "Ko‘l",
-    "B": "Daryo",
-    "C": "Tog‘",
-    "D": "Dengiz",
-    "AnswerKey": "C",
-    "bolimId": 4
-  },
-  {
-    "Text": "Odamlar nafas olayotganda qaysi gazni chiqaradi?",
-    "A": "Kislorod",
-    "B": "Uglerod(IV)-oksid",
-    "C": "Azot",
-    "D": "Vodorod",
-    "AnswerKey": "B",
-    "bolimId": 4
-  },
-  {
-    "Text": "Qaysi qush ucholmaydi?",
-    "A": "Qarg‘a",
-    "B": "Pingvin",
-    "C": "Qaldirg‘och",
-    "D": "Lochin",
-    "AnswerKey": "B",
-    "bolimId": 4
-  },
-  {
-    "Text": "Yerning markazida nima joylashgan?",
-    "A": "Magma",
-    "B": "Yadro",
-    "C": "Qobiq",
-    "D": "Atmosfera",
-    "AnswerKey": "B",
-    "bolimId": 4
-  },
-  {
-    "Text": "Fotosintez uchun nima kerak?",
-    "A": "Quyosh nuri",
-    "B": "Tuz",
-    "C": "Temir",
-    "D": "Kislorod",
-    "AnswerKey": "A",
-    "bolimId": 4
-  },
-  {
-    "Text": "Qaysi jonivor suvda yashaydi?",
-    "A": "Bo‘ri",
-    "B": "Baliq",
-    "C": "Ot",
-    "D": "Sigir",
-    "AnswerKey": "B",
-    "bolimId": 4
-  },
-  {
-    "Text": "Qaysi modda suvda eriydi?",
-    "A": "Tuz",
-    "B": "Temir",
-    "C": "Yog‘",
-    "D": "Oltin",
-    "AnswerKey": "A",
-    "bolimId": 4
-  },
-  {
-    "Text": "Tuproq tarkibida nima bo‘ladi?",
-    "A": "Quyosh nuri",
-    "B": "Havo",
-    "C": "Elektr toki",
-    "D": "Shisha",
-    "AnswerKey": "B",
-    "bolimId": 4
-  },
-  {
-    "Text": "Qaysi biri daraxt emas?",
-    "A": "Terak",
-    "B": "Qarag‘ay",
-    "C": "Gul",
-    "D": "Tol",
-    "AnswerKey": "C",
-    "bolimId": 4
-  },
-  {
-    "Text": "Quyosh tizimida eng katta sayyora qaysi?",
-    "A": "Yer",
-    "B": "Yupiter",
-    "C": "Mars",
-    "D": "Venera",
-    "AnswerKey": "B",
-    "bolimId": 4
-  },
-  {
-    "Text": "Qaysi biri suv havzasiga kirmaydi?",
-    "A": "Ko‘l",
-    "B": "Daryo",
-    "C": "Tog‘",
-    "D": "Dengiz",
-    "AnswerKey": "C",
-    "bolimId": 4
-  },
-  {
-    "Text": "Odamlar nafas olayotganda qaysi gazni chiqaradi?",
-    "A": "Kislorod",
-    "B": "Uglerod(IV)-oksid",
-    "C": "Azot",
-    "D": "Vodorod",
-    "AnswerKey": "B",
-    "bolimId": 4
-  },
-  {
-    "Text": "Qaysi qush ucholmaydi?",
-    "A": "Qarg‘a",
-    "B": "Pingvin",
-    "C": "Qaldirg‘och",
-    "D": "Lochin",
-    "AnswerKey": "B",
-    "bolimId": 4
-  },
-  {
-    "Text": "Yerning markazida nima joylashgan?",
-    "A": "Magma",
-    "B": "Yadro",
-    "C": "Qobiq",
-    "D": "Atmosfera",
-    "AnswerKey": "B",
-    "bolimId": 4
-  },
-  {
-    "Text": "Fotosintez uchun nima kerak?",
-    "A": "Quyosh nuri",
-    "B": "Tuz",
-    "C": "Temir",
-    "D": "Kislorod",
-    "AnswerKey": "A",
-    "bolimId": 4
-  },
-  {
-    "Text": "Qaysi jonivor suvda yashaydi?",
-    "A": "Bo‘ri",
-    "B": "Baliq",
-    "C": "Ot",
-    "D": "Sigir",
-    "AnswerKey": "B",
-    "bolimId": 4
-  },
-  {
-    "Text": "Qaysi modda suvda eriydi?",
-    "A": "Tuz",
-    "B": "Temir",
-    "C": "Yog‘",
-    "D": "Oltin",
-    "AnswerKey": "A",
-    "bolimId": 4
-  },
-  {
-    "Text": "Tuproq tarkibida nima bo‘ladi?",
-    "A": "Quyosh nuri",
-    "B": "Havo",
-    "C": "Elektr toki",
-    "D": "Shisha",
-    "AnswerKey": "B",
-    "bolimId": 4
-  },
-  {
-    "Text": "Qaysi biri daraxt emas?",
-    "A": "Terak",
-    "B": "Qarag‘ay",
-    "C": "Gul",
-    "D": "Tol",
-    "AnswerKey": "C",
-    "bolimId": 4
-  },
-  {
-    "Text": "Quyosh tizimida eng katta sayyora qaysi?",
-    "A": "Yer",
-    "B": "Yupiter",
-    "C": "Mars",
-    "D": "Venera",
-    "AnswerKey": "B",
-    "bolimId": 4
-  },
-  {
-    "Text": "Qaysi biri suv havzasiga kirmaydi?",
-    "A": "Ko‘l",
-    "B": "Daryo",
-    "C": "Tog‘",
-    "D": "Dengiz",
-    "AnswerKey": "C",
-    "bolimId": 4
-  },
-  {
-    "Text": "Odamlar nafas olayotganda qaysi gazni chiqaradi?",
-    "A": "Kislorod",
-    "B": "Uglerod(IV)-oksid",
-    "C": "Azot",
-    "D": "Vodorod",
-    "AnswerKey": "B",
-    "bolimId": 4
-  },
-  {
-    "Text": "Qaysi qush ucholmaydi?",
-    "A": "Qarg‘a",
-    "B": "Pingvin",
-    "C": "Qaldirg‘och",
-    "D": "Lochin",
-    "AnswerKey": "B",
-    "bolimId": 4
-  },
-  {
-    "Text": "Yerning markazida nima joylashgan?",
-    "A": "Magma",
-    "B": "Yadro",
-    "C": "Qobiq",
-    "D": "Atmosfera",
-    "AnswerKey": "B",
-    "bolimId": 4
-  },
-  {
-    "Text": "Fotosintez uchun nima kerak?",
-    "A": "Quyosh nuri",
-    "B": "Tuz",
-    "C": "Temir",
-    "D": "Kislorod",
-    "AnswerKey": "A",
-    "bolimId": 4
-  },
-  {
-    "Text": "Qaysi jonivor suvda yashaydi?",
-    "A": "Bo‘ri",
-    "B": "Baliq",
-    "C": "Ot",
-    "D": "Sigir",
-    "AnswerKey": "B",
-    "bolimId": 4
-  },
-  {
-    "Text": "Qaysi modda suvda eriydi?",
-    "A": "Tuz",
-    "B": "Temir",
-    "C": "Yog‘",
-    "D": "Oltin",
-    "AnswerKey": "A",
-    "bolimId": 4
-  },
-  {
-    "Text": "Tuproq tarkibida nima bo‘ladi?",
-    "A": "Quyosh nuri",
-    "B": "Havo",
-    "C": "Elektr toki",
-    "D": "Shisha",
-    "AnswerKey": "B",
-    "bolimId": 4
-  },
-  {
-    "Text": "Qaysi biri daraxt emas?",
-    "A": "Terak",
-    "B": "Qarag‘ay",
-    "C": "Gul",
-    "D": "Tol",
-    "AnswerKey": "C",
-    "bolimId": 4
-  },
-  {
-    "Text": "Quyosh tizimida eng katta sayyora qaysi?",
-    "A": "Yer",
-    "B": "Yupiter",
-    "C": "Mars",
-    "D": "Venera",
-    "AnswerKey": "B",
-    "bolimId": 4
-  },
-  {
-    "Text": "Qaysi biri suv havzasiga kirmaydi?",
-    "A": "Ko‘l",
-    "B": "Daryo",
-    "C": "Tog‘",
-    "D": "Dengiz",
-    "AnswerKey": "C",
-    "bolimId": 4
-  },
-  {
-    "Text": "Odamlar nafas olayotganda qaysi gazni chiqaradi?",
-    "A": "Kislorod",
-    "B": "Uglerod(IV)-oksid",
-    "C": "Azot",
-    "D": "Vodorod",
-    "AnswerKey": "B",
-    "bolimId": 4
-  },
-  {
-    "Text": "Qaysi qush ucholmaydi?",
-    "A": "Qarg‘a",
-    "B": "Pingvin",
-    "C": "Qaldirg‘och",
-    "D": "Lochin",
-    "AnswerKey": "B",
-    "bolimId": 4
-  },
-  {
-    "Text": "Yerning markazida nima joylashgan?",
-    "A": "Magma",
-    "B": "Yadro",
-    "C": "Qobiq",
-    "D": "Atmosfera",
-    "AnswerKey": "B",
-    "bolimId": 4
-  },
-  {
-    "Text": "Fotosintez uchun nima kerak?",
-    "A": "Quyosh nuri",
-    "B": "Tuz",
-    "C": "Temir",
-    "D": "Kislorod",
-    "AnswerKey": "A",
-    "bolimId": 4
-  },
-  {
-    "Text": "Qaysi jonivor suvda yashaydi?",
-    "A": "Bo‘ri",
-    "B": "Baliq",
-    "C": "Ot",
-    "D": "Sigir",
-    "AnswerKey": "B",
-    "bolimId": 4
-  },
-  {
-    "Text": "Qaysi modda suvda eriydi?",
-    "A": "Tuz",
-    "B": "Temir",
-    "C": "Yog‘",
-    "D": "Oltin",
-    "AnswerKey": "A",
-    "bolimId": 4
-  },
-  {
-    "Text": "Tuproq tarkibida nima bo‘ladi?",
-    "A": "Quyosh nuri",
-    "B": "Havo",
-    "C": "Elektr toki",
-    "D": "Shisha",
-    "AnswerKey": "B",
-    "bolimId": 4
-  },
-  {
-    "Text": "Qaysi biri daraxt emas?",
-    "A": "Terak",
-    "B": "Qarag‘ay",
-    "C": "Gul",
-    "D": "Tol",
-    "AnswerKey": "C",
-    "bolimId": 4
-  },
-  {
-    "Text": "Quyosh tizimida eng katta sayyora qaysi?",
-    "A": "Yer",
-    "B": "Yupiter",
-    "C": "Mars",
-    "D": "Venera",
-    "AnswerKey": "B",
-    "bolimId": 4
-  },
-  {
-    "Text": "Qaysi biri suv havzasiga kirmaydi?",
-    "A": "Ko‘l",
-    "B": "Daryo",
-    "C": "Tog‘",
-    "D": "Dengiz",
-    "AnswerKey": "C",
-    "bolimId": 4
-  },
-  {
-    "Text": "Odamlar nafas olayotganda qaysi gazni chiqaradi?",
-    "A": "Kislorod",
-    "B": "Uglerod(IV)-oksid",
-    "C": "Azot",
-    "D": "Vodorod",
-    "AnswerKey": "B",
-    "bolimId": 4
-  },
-  {
-    "Text": "Qaysi qush ucholmaydi?",
-    "A": "Qarg‘a",
-    "B": "Pingvin",
-    "C": "Qaldirg‘och",
-    "D": "Lochin",
-    "AnswerKey": "B",
-    "bolimId": 4
-  },
-  {
-    "Text": "Yerning markazida nima joylashgan?",
-    "A": "Magma",
-    "B": "Yadro",
-    "C": "Qobiq",
-    "D": "Atmosfera",
-    "AnswerKey": "B",
-    "bolimId": 4
-  },
-  {
-    "Text": "Fotosintez uchun nima kerak?",
-    "A": "Quyosh nuri",
-    "B": "Tuz",
-    "C": "Temir",
-    "D": "Kislorod",
-    "AnswerKey": "A",
-    "bolimId": 4
-  },
-  {
-    "Text": "Qaysi jonivor suvda yashaydi?",
-    "A": "Bo‘ri",
-    "B": "Baliq",
-    "C": "Ot",
-    "D": "Sigir",
-    "AnswerKey": "B",
-    "bolimId": 4
-  },
-  {
-    "Text": "Qaysi modda suvda eriydi?",
-    "A": "Tuz",
-    "B": "Temir",
-    "C": "Yog‘",
-    "D": "Oltin",
-    "AnswerKey": "A",
-    "bolimId": 4
-  },
-  {
-    "Text": "Tuproq tarkibida nima bo‘ladi?",
-    "A": "Quyosh nuri",
-    "B": "Havo",
-    "C": "Elektr toki",
-    "D": "Shisha",
-    "AnswerKey": "B",
-    "bolimId": 4
-  },
-  {
-    "Text": "Qaysi biri daraxt emas?",
-    "A": "Terak",
-    "B": "Qarag‘ay",
-    "C": "Gul",
-    "D": "Tol",
-    "AnswerKey": "C",
-    "bolimId": 4
-  },
-  {
-    "Text": "Quyosh tizimida eng katta sayyora qaysi?",
-    "A": "Yer",
-    "B": "Yupiter",
-    "C": "Mars",
-    "D": "Venera",
-    "AnswerKey": "B",
-    "bolimId": 4
-  },
-  {
-    "Text": "Qaysi biri suv havzasiga kirmaydi?",
-    "A": "Ko‘l",
-    "B": "Daryo",
-    "C": "Tog‘",
-    "D": "Dengiz",
-    "AnswerKey": "C",
-    "bolimId": 4
-  },
-  {
-    "Text": "Odamlar nafas olayotganda qaysi gazni chiqaradi?",
-    "A": "Kislorod",
-    "B": "Uglerod(IV)-oksid",
-    "C": "Azot",
-    "D": "Vodorod",
-    "AnswerKey": "B",
-    "bolimId": 4
-  },
-  {
-    "Text": "Qaysi qush ucholmaydi?",
-    "A": "Qarg‘a",
-    "B": "Pingvin",
-    "C": "Qaldirg‘och",
-    "D": "Lochin",
-    "AnswerKey": "B",
-    "bolimId": 4
-  },
-  {
-    "Text": "Yerning markazida nima joylashgan?",
-    "A": "Magma",
-    "B": "Yadro",
-    "C": "Qobiq",
-    "D": "Atmosfera",
-    "AnswerKey": "B",
-    "bolimId": 4
-  },
-  {
-    "Text": "Fotosintez uchun nima kerak?",
-    "A": "Quyosh nuri",
-    "B": "Tuz",
-    "C": "Temir",
-    "D": "Kislorod",
-    "AnswerKey": "A",
-    "bolimId": 4
-  },
-  {
-    "Text": "Qaysi jonivor suvda yashaydi?",
-    "A": "Bo‘ri",
-    "B": "Baliq",
-    "C": "Ot",
-    "D": "Sigir",
-    "AnswerKey": "B",
-    "bolimId": 4
-  },
-  {
-    "Text": "Qaysi modda suvda eriydi?",
-    "A": "Tuz",
-    "B": "Temir",
-    "C": "Yog‘",
-    "D": "Oltin",
-    "AnswerKey": "A",
-    "bolimId": 4
-  },
-  {
-    "Text": "Tuproq tarkibida nima bo‘ladi?",
-    "A": "Quyosh nuri",
-    "B": "Havo",
-    "C": "Elektr toki",
-    "D": "Shisha",
-    "AnswerKey": "B",
-    "bolimId": 4
-  },
-  {
-    "Text": "Qaysi biri daraxt emas?",
-    "A": "Terak",
-    "B": "Qarag‘ay",
-    "C": "Gul",
-    "D": "Tol",
-    "AnswerKey": "C",
-    "bolimId": 4
-  },
-  {
-    "Text": "Quyosh tizimida eng katta sayyora qaysi?",
-    "A": "Yer",
-    "B": "Yupiter",
-    "C": "Mars",
-    "D": "Venera",
-    "AnswerKey": "B",
-    "bolimId": 4
-  },
-  {
-    "Text": "Qaysi biri suv havzasiga kirmaydi?",
-    "A": "Ko‘l",
-    "B": "Daryo",
-    "C": "Tog‘",
-    "D": "Dengiz",
-    "AnswerKey": "C",
-    "bolimId": 4
-  },
-  {
-    "Text": "Odamlar nafas olayotganda qaysi gazni chiqaradi?",
-    "A": "Kislorod",
-    "B": "Uglerod(IV)-oksid",
-    "C": "Azot",
-    "D": "Vodorod",
-    "AnswerKey": "B",
-    "bolimId": 4
-  },
-  {
-    "Text": "Qaysi qush ucholmaydi?",
-    "A": "Qarg‘a",
-    "B": "Pingvin",
-    "C": "Qaldirg‘och",
-    "D": "Lochin",
-    "AnswerKey": "B",
-    "bolimId": 4
-  },
-  {
-    "Text": "Yerning markazida nima joylashgan?",
-    "A": "Magma",
-    "B": "Yadro",
-    "C": "Qobiq",
-    "D": "Atmosfera",
-    "AnswerKey": "B",
-    "bolimId": 4
-  },
-  {
-    "Text": "Fotosintez uchun nima kerak?",
-    "A": "Quyosh nuri",
-    "B": "Tuz",
-    "C": "Temir",
-    "D": "Kislorod",
-    "AnswerKey": "A",
-    "bolimId": 4
-  },
-  {
-    "Text": "Qaysi jonivor suvda yashaydi?",
-    "A": "Bo‘ri",
-    "B": "Baliq",
-    "C": "Ot",
-    "D": "Sigir",
-    "AnswerKey": "B",
-    "bolimId": 4
-  },
-  {
-    "Text": "Qaysi modda suvda eriydi?",
-    "A": "Tuz",
-    "B": "Temir",
-    "C": "Yog‘",
-    "D": "Oltin",
-    "AnswerKey": "A",
-    "bolimId": 4
-  },
-  {
-    "Text": "Tuproq tarkibida nima bo‘ladi?",
-    "A": "Quyosh nuri",
-    "B": "Havo",
-    "C": "Elektr toki",
-    "D": "Shisha",
-    "AnswerKey": "B",
-    "bolimId": 4
-  },
-  {
-    "Text": "Qaysi biri daraxt emas?",
-    "A": "Terak",
-    "B": "Qarag‘ay",
-    "C": "Gul",
-    "D": "Tol",
-    "AnswerKey": "C",
-    "bolimId": 4
-  },
-  {
-    "Text": "Quyosh tizimida eng katta sayyora qaysi?",
-    "A": "Yer",
-    "B": "Yupiter",
-    "C": "Mars",
-    "D": "Venera",
-    "AnswerKey": "B",
-    "bolimId": 4
-  },
-  {
-    "Text": "Qaysi biri suv havzasiga kirmaydi?",
-    "A": "Ko‘l",
-    "B": "Daryo",
-    "C": "Tog‘",
-    "D": "Dengiz",
-    "AnswerKey": "C",
-    "bolimId": 4
-  },
-  {
-    "Text": "Odamlar nafas olayotganda qaysi gazni chiqaradi?",
-    "A": "Kislorod",
-    "B": "Uglerod(IV)-oksid",
-    "C": "Azot",
-    "D": "Vodorod",
-    "AnswerKey": "B",
-    "bolimId": 4
-  },
-  {
-    "Text": "Qaysi qush ucholmaydi?",
-    "A": "Qarg‘a",
-    "B": "Pingvin",
-    "C": "Qaldirg‘och",
-    "D": "Lochin",
-    "AnswerKey": "B",
-    "bolimId": 4
-  },
-  {
-    "Text": "Yerning markazida nima joylashgan?",
-    "A": "Magma",
-    "B": "Yadro",
-    "C": "Qobiq",
-    "D": "Atmosfera",
-    "AnswerKey": "B",
-    "bolimId": 4
-  },
-  {
-    "Text": "Fotosintez uchun nima kerak?",
-    "A": "Quyosh nuri",
-    "B": "Tuz",
-    "C": "Temir",
-    "D": "Kislorod",
-    "AnswerKey": "A",
-    "bolimId": 4
-  },
-  {
-    "Text": "Qaysi jonivor suvda yashaydi?",
-    "A": "Bo‘ri",
-    "B": "Baliq",
-    "C": "Ot",
-    "D": "Sigir",
-    "AnswerKey": "B",
-    "bolimId": 4
-  },
-  {
-    "Text": "Qaysi modda suvda eriydi?",
-    "A": "Tuz",
-    "B": "Temir",
-    "C": "Yog‘",
-    "D": "Oltin",
-    "AnswerKey": "A",
-    "bolimId": 4
-  },
-  {
-    "Text": "Tuproq tarkibida nima bo‘ladi?",
-    "A": "Quyosh nuri",
-    "B": "Havo",
-    "C": "Elektr toki",
-    "D": "Shisha",
-    "AnswerKey": "B",
-    "bolimId": 4
-  },
-  {
-    "Text": "Qaysi biri daraxt emas?",
-    "A": "Terak",
-    "B": "Qarag‘ay",
-    "C": "Gul",
-    "D": "Tol",
-    "AnswerKey": "C",
-    "bolimId": 4
-  },
-  {
-    "Text": "Quyosh tizimida eng katta sayyora qaysi?",
-    "A": "Yer",
-    "B": "Yupiter",
-    "C": "Mars",
-    "D": "Venera",
-    "AnswerKey": "B",
-    "bolimId": 4
-  },
-  {
-    "Text": "Qaysi biri suv havzasiga kirmaydi?",
-    "A": "Ko‘l",
-    "B": "Daryo",
-    "C": "Tog‘",
-    "D": "Dengiz",
-    "AnswerKey": "C",
-    "bolimId": 4
-  },
-  {
-    "Text": "Odamlar nafas olayotganda qaysi gazni chiqaradi?",
-    "A": "Kislorod",
-    "B": "Uglerod(IV)-oksid",
-    "C": "Azot",
-    "D": "Vodorod",
-    "AnswerKey": "B",
-    "bolimId": 4
-  },
-  {
-    "Text": "Qaysi qush ucholmaydi?",
-    "A": "Qarg‘a",
-    "B": "Pingvin",
-    "C": "Qaldirg‘och",
-    "D": "Lochin",
-    "AnswerKey": "B",
-    "bolimId": 4
-  },
-  {
-    "Text": "Yerning markazida nima joylashgan?",
-    "A": "Magma",
-    "B": "Yadro",
-    "C": "Qobiq",
-    "D": "Atmosfera",
-    "AnswerKey": "B",
-    "bolimId": 4
-  },
-  {
-    "Text": "Fotosintez uchun nima kerak?",
-    "A": "Quyosh nuri",
-    "B": "Tuz",
-    "C": "Temir",
-    "D": "Kislorod",
-    "AnswerKey": "A",
-    "bolimId": 4
-  }
-]
+
+  
+    {
+      "Text": "O‘zbekistonning poytaxti qaysi shahar?",
+      "A": "Buxoro",
+      "B": "Toshkent",
+      "C": "Samarqand",
+      "D": "Andijon",
+      "AnswerKey": "B",
+      "bolimId": 4
+    },
+    {
+      "Text": "Yer qobig‘i qanday qismlardan tashkil topgan?",
+      "A": "Litosfera, gidrosfera, atmosfera",
+      "B": "Faqat atmosfera",
+      "C": "Faqat suv va havo",
+      "D": "Faqat tuproq",
+      "AnswerKey": "A",
+      "bolimId": 4
+    },
+    {
+      "Text": "Odam o‘pkasi qanday vazifani bajaradi?",
+      "A": "Qon aylanish",
+      "B": "Ovqat hazm qilish",
+      "C": "Nafas olish",
+      "D": "Ko‘payish",
+      "AnswerKey": "C",
+      "bolimId": 4
+    },
+    {
+      "Text": "Eng kichik musbat tub son qaysi?",
+      "A": "0",
+      "B": "1",
+      "C": "2",
+      "D": "3",
+      "AnswerKey": "C",
+      "bolimId": 4
+    },
+    {
+      "Text": "Yer Quyosh atrofini nechchi kunda bir marta aylanadi?",
+      "A": "365 kun",
+      "B": "24 soat",
+      "C": "7 kun",
+      "D": "30 kun",
+      "AnswerKey": "A",
+      "bolimId": 4
+    },
+    {
+      "Text": "Quyidagi hayvonlardan qaysi biri sutemizuvchi?",
+      "A": "Baliq",
+      "B": "Qush",
+      "C": "Sigir",
+      "D": "Qaldirg‘och",
+      "AnswerKey": "C",
+      "bolimId": 4
+    },
+    {
+      "Text": "Cho‘l hududida ko‘p uchraydigan o‘simlik qaysi?",
+      "A": "Qamish",
+      "B": "Saksovul",
+      "C": "Chinor",
+      "D": "Lola",
+      "AnswerKey": "B",
+      "bolimId": 4
+    },
+    {
+      "Text": "O‘zbekiston bayrog‘idagi oq rang nimani bildiradi?",
+      "A": "Osmon",
+      "B": "Paxtazor",
+      "C": "Poklik va tinchlik",
+      "D": "Bahor",
+      "AnswerKey": "C",
+      "bolimId": 4
+    },
+    {
+      "Text": "Qushlarning tana harorati qanday?",
+      "A": "O‘zgaruvchan",
+      "B": "Doimiy",
+      "C": "Havoga qarab o‘zgaradi",
+      "D": "Faqat yozda ko‘tariladi",
+      "AnswerKey": "B",
+      "bolimId": 4
+    },
+    {
+      "Text": "Matematikada kvadratning burchaklari nechta?",
+      "A": "2 ta",
+      "B": "3 ta",
+      "C": "4 ta",
+      "D": "5 ta",
+      "AnswerKey": "C",
+      "bolimId": 4
+    },
+    {
+      "Text": "Yerning tabiiy yo‘ldoshi nima?",
+      "A": "Quyosh",
+      "B": "Oy",
+      "C": "Yulduz",
+      "D": "Meteor",
+      "AnswerKey": "B",
+      "bolimId": 4
+    },
+    {
+      "Text": "O‘simliklar ildizi qanday vazifani bajaradi?",
+      "A": "Nafas olish",
+      "B": "Suv va oziq moddalarni shimib olish",
+      "C": "Himoya qilish",
+      "D": "Quyoshni ushlash",
+      "AnswerKey": "B",
+      "bolimId": 4
+    },
+    {
+      "Text": "Haroratni o‘lchash asbobi nima?",
+      "A": "Barometr",
+      "B": "Kompas",
+      "C": "Termometr",
+      "D": "Xronometr",
+      "AnswerKey": "C",
+      "bolimId": 4
+    },
+    {
+      "Text": "Qaysi hayvon tuxum qo‘yadi?",
+      "A": "Sigir",
+      "B": "Ot",
+      "C": "To‘tiqush",
+      "D": "Mushuk",
+      "AnswerKey": "C",
+      "bolimId": 4
+    },
+    {
+      "Text": "O‘zbekistonning eng baland tog‘i qaysi?",
+      "A": "Hisor",
+      "B": "Tyan-Shan",
+      "C": "Nurota",
+      "D": "Chotqol",
+      "AnswerKey": "A",
+      "bolimId": 4
+    },
+    {
+      "Text": "Suvning qaynash harorati nechchi daraja?",
+      "A": "0°C",
+      "B": "50°C",
+      "C": "100°C",
+      "D": "200°C",
+      "AnswerKey": "C",
+      "bolimId": 4
+    },
+    {
+      "Text": "Matematikada perimetr nima?",
+      "A": "Yuzaning uzunligi",
+      "B": "Barcha tomonlar yig‘indisi",
+      "C": "Faqat ikkita tomoni",
+      "D": "Faqat burchaklari",
+      "AnswerKey": "B",
+      "bolimId": 4
+    },
+    {
+      "Text": "Hayvonlarning qish uyqusi nima uchun kerak?",
+      "A": "Ovqat topish uchun",
+      "B": "Sovuqdan saqlanish uchun",
+      "C": "Ko‘payish uchun",
+      "D": "Uxlash uchun",
+      "AnswerKey": "B",
+      "bolimId": 4
+    },
+    {
+      "Text": "Qaysi sayyorada hayot mavjud?",
+      "A": "Mars",
+      "B": "Venera",
+      "C": "Yer",
+      "D": "Yupiter",
+      "AnswerKey": "C",
+      "bolimId": 4
+    },
+    {
+      "Text": "O‘zbekiston Respublikasining asosiy qonuni nima?",
+      "A": "Konstitutsiya",
+      "B": "Farmon",
+      "C": "Qaror",
+      "D": "Qonunlar to‘plami",
+      "AnswerKey": "A",
+      "bolimId": 4
+    },
+
+    
+      {
+        "Text": "Quyosh tizimidagi eng katta sayyora qaysi?",
+        "A": "Yupiter",
+        "B": "Mars",
+        "C": "Yer",
+        "D": "Saturn",
+        "AnswerKey": "A",
+        "bolimId": 4
+      },
+      {
+        "Text": "Toshkent shahri qaysi daryo bo‘yida joylashgan?",
+        "A": "Amudaryo",
+        "B": "Sirdaryo",
+        "C": "Chirchiq",
+        "D": "Zarafshon",
+        "AnswerKey": "C",
+        "bolimId": 4
+      },
+      {
+        "Text": "Baliqlar qanday nafas oladi?",
+        "A": "O‘pka bilan",
+        "B": "Terisi orqali",
+        "C": "Jabralar bilan",
+        "D": "Burun orqali",
+        "AnswerKey": "C",
+        "bolimId": 4
+      },
+      {
+        "Text": "Matematikada 7 × 8 nechchi?",
+        "A": "54",
+        "B": "56",
+        "C": "64",
+        "D": "58",
+        "AnswerKey": "B",
+        "bolimId": 4
+      },
+      {
+        "Text": "O‘zbekistonning eng katta ko‘li qaysi?",
+        "A": "Aral dengizi",
+        "B": "Aydar ko‘li",
+        "C": "Sariqamish",
+        "D": "Charvak",
+        "AnswerKey": "B",
+        "bolimId": 4
+      },
+      {
+        "Text": "Quyidagi hayvonlardan qaysi biri yirtqich hisoblanadi?",
+        "A": "Bo‘ri",
+        "B": "Qo‘y",
+        "C": "Sigir",
+        "D": "Ot",
+        "AnswerKey": "A",
+        "bolimId": 4
+      },
+      {
+        "Text": "Matematikada to‘rtburchakning yuzini qanday topamiz?",
+        "A": "a + b",
+        "B": "a × b",
+        "C": "a ÷ b",
+        "D": "a – b",
+        "AnswerKey": "B",
+        "bolimId": 4
+      },
+      {
+        "Text": "O‘zbekiston hududida qaysi tog‘ tizmalari mavjud?",
+        "A": "Ural",
+        "B": "Tyan-Shan va Hisor",
+        "C": "Kavkaz",
+        "D": "Altay",
+        "AnswerKey": "B",
+        "bolimId": 4
+      },
+      {
+        "Text": "Issiqlikni eng yaxshi o‘tkazuvchi moddalar qaysi?",
+        "A": "Plastmassa",
+        "B": "Metallar",
+        "C": "Yog‘och",
+        "D": "Shisha",
+        "AnswerKey": "B",
+        "bolimId": 4
+      },
+      {
+        "Text": "Matematikada 1000 ning 1/10 qismi nechchi?",
+        "A": "10",
+        "B": "50",
+        "C": "100",
+        "D": "500",
+        "AnswerKey": "C",
+        "bolimId": 4
+      },
+      {
+        "Text": "Fotosintez jarayoni qaysi organoidda sodir bo‘ladi?",
+        "A": "Mitochondriya",
+        "B": "Xloroplast",
+        "C": "Yadro",
+        "D": "Ribosoma",
+        "AnswerKey": "B",
+        "bolimId": 4
+      },
+      {
+        "Text": "O‘zbekiston qaysi qit’ada joylashgan?",
+        "A": "Afrika",
+        "B": "Yevropa",
+        "C": "Osiyo",
+        "D": "Amerika",
+        "AnswerKey": "C",
+        "bolimId": 4
+      },
+      {
+        "Text": "Matematikada 36 ÷ 6 = ?",
+        "A": "5",
+        "B": "8",
+        "C": "6",
+        "D": "7",
+        "AnswerKey": "B",
+        "bolimId": 4
+      },
+      {
+        "Text": "Qaysi qush kechasi ov qiladi?",
+        "A": "Qarg‘a",
+        "B": "Boyqush",
+        "C": "Qaldirg‘och",
+        "D": "Turna",
+        "AnswerKey": "B",
+        "bolimId": 4
+      },
+      {
+        "Text": "Daryo suvining manbai nima?",
+        "A": "Shamol",
+        "B": "Qor va yomg‘ir suvlari",
+        "C": "O‘rmon",
+        "D": "Quyosh",
+        "AnswerKey": "B",
+        "bolimId": 4
+      },
+      {
+        "Text": "Matematikada 25 × 4 nechchi?",
+        "A": "50",
+        "B": "75",
+        "C": "100",
+        "D": "125",
+        "AnswerKey": "C",
+        "bolimId": 4
+      },
+      {
+        "Text": "O‘zbekistonning milliy pul birligi qaysi?",
+        "A": "Dollar",
+        "B": "So‘m",
+        "C": "Rubl",
+        "D": "Tiyin",
+        "AnswerKey": "B",
+        "bolimId": 4
+      },
+      {
+        "Text": "Quyidagi moddalar ichidan suyuqlikni tanlang.",
+        "A": "Tuz",
+        "B": "Suv",
+        "C": "Havo",
+        "D": "Metall",
+        "AnswerKey": "B",
+        "bolimId": 4
+      },
+      {
+        "Text": "Qaysi organ odam tanasida qon haydaydi?",
+        "A": "Jigar",
+        "B": "O‘pka",
+        "C": "Yurak",
+        "D": "Miya",
+        "AnswerKey": "C",
+        "bolimId": 4
+      },
+      {
+        "Text": "Matematikada 1 kilometr nechchi metrga teng?",
+        "A": "100 m",
+        "B": "1000 m",
+        "C": "500 m",
+        "D": "1500 m",
+        "AnswerKey": "B",
+        "bolimId": 4
+      },
+      {
+        "Text": "Yer kurrasining asosiy qismi nima bilan qoplangan?",
+        "A": "Suv",
+        "B": "Quruqlik",
+        "C": "Qor",
+        "D": "Cho‘l",
+        "AnswerKey": "A",
+        "bolimId": 4
+      },
+      {
+        "Text": "Matematikada eng katta ikki xonali son qaysi?",
+        "A": "99",
+        "B": "98",
+        "C": "100",
+        "D": "101",
+        "AnswerKey": "A",
+        "bolimId": 4
+      },
+      {
+        "Text": "Issiqda muz nima qiladi?",
+        "A": "Qotadi",
+        "B": "Eriyadi",
+        "C": "Qaynaydi",
+        "D": "Bug‘lanadi",
+        "AnswerKey": "B",
+        "bolimId": 4
+      },
+      {
+        "Text": "Qaysi hayvon o‘z uyini to‘r bilan quradi?",
+        "A": "Ayiq",
+        "B": "Burgut",
+        "C": "O‘rgimchak",
+        "D": "Tulki",
+        "AnswerKey": "C",
+        "bolimId": 4
+      },
+      {
+        "Text": "Matematikada 12 × 12 = ?",
+        "A": "124",
+        "B": "142",
+        "C": "144",
+        "D": "132",
+        "AnswerKey": "C",
+        "bolimId": 4
+      },
+      {
+        "Text": "O‘zbekistonning shimoliy qismi qaysi daryo bo‘yida joylashgan?",
+        "A": "Sirdaryo",
+        "B": "Amudaryo",
+        "C": "Chirchiq",
+        "D": "Zarafshon",
+        "AnswerKey": "A",
+        "bolimId": 4
+      },
+      {
+        "Text": "Qaysi qush bahor kelishini bildiradi?",
+        "A": "Qaldirg‘och",
+        "B": "Qarg‘a",
+        "C": "Boyqush",
+        "D": "To‘tiqush",
+        "AnswerKey": "A",
+        "bolimId": 4
+      },
+      {
+        "Text": "Matematikada 3/4 kasrida nechta teng ulush bor?",
+        "A": "3 ta",
+        "B": "4 ta",
+        "C": "7 ta",
+        "D": "2 ta",
+        "AnswerKey": "B",
+        "bolimId": 4
+      },
+      {
+        "Text": "Kompas qaysi tomonlarni ko‘rsatadi?",
+        "A": "Faqat sharqni",
+        "B": "Shimol, janub, sharq, g‘arb",
+        "C": "Faqat shimolni",
+        "D": "Faqat janubni",
+        "AnswerKey": "B",
+        "bolimId": 4
+      },    
+  
+      
+        {
+          "Text": "O‘zbekiston poytaxti qaysi shahar?",
+          "A": "Samarqand",
+          "B": "Buxoro",
+          "C": "Toshkent",
+          "D": "Xiva",
+          "AnswerKey": "C",
+          "bolimId": 4
+        },
+        {
+          "Text": "Matematikada 15 × 5 nechchi?",
+          "A": "60",
+          "B": "70",
+          "C": "75",
+          "D": "80",
+          "AnswerKey": "C",
+          "bolimId": 4
+        },
+        {
+          "Text": "Yerning sun’iy yo‘ldoshi qaysi?",
+          "A": "Oy",
+          "B": "Mars",
+          "C": "Yupiter",
+          "D": "Quyosh",
+          "AnswerKey": "A",
+          "bolimId": 4
+        },
+        {
+          "Text": "Qaysi metall magnitga tortiladi?",
+          "A": "Oltin",
+          "B": "Temir",
+          "C": "Kumush",
+          "D": "Alyuminiy",
+          "AnswerKey": "B",
+          "bolimId": 4
+        },
+        {
+          "Text": "Matematikada 90 ÷ 9 nechchi?",
+          "A": "10",
+          "B": "11",
+          "C": "12",
+          "D": "9",
+          "AnswerKey": "A",
+          "bolimId": 4
+        },
+        {
+          "Text": "O‘zbekiston davlat bayrog‘ida nechta yulduz bor?",
+          "A": "10",
+          "B": "12",
+          "C": "14",
+          "D": "16",
+          "AnswerKey": "C",
+          "bolimId": 4
+        },
+        {
+          "Text": "Suvning qaynash harorati nechchi?",
+          "A": "50°C",
+          "B": "100°C",
+          "C": "80°C",
+          "D": "120°C",
+          "AnswerKey": "B",
+          "bolimId": 4
+        },
+        {
+          "Text": "Matematikada eng kichik tub son qaysi?",
+          "A": "0",
+          "B": "1",
+          "C": "2",
+          "D": "3",
+          "AnswerKey": "C",
+          "bolimId": 4
+        },
+        {
+          "Text": "Qaysi hayvon tuxum qo‘yadi?",
+          "A": "Sigir",
+          "B": "Ot",
+          "C": "Tovuq",
+          "D": "Mushuk",
+          "AnswerKey": "C",
+          "bolimId": 4
+        },
+        {
+          "Text": "Yer qobig‘i nechta qismdan iborat?",
+          "A": "2 qism",
+          "B": "3 qism",
+          "C": "4 qism",
+          "D": "5 qism",
+          "AnswerKey": "B",
+          "bolimId": 4
+        },
+        {
+          "Text": "Matematikada 250 + 375 nechchi?",
+          "A": "605",
+          "B": "615",
+          "C": "625",
+          "D": "635",
+          "AnswerKey": "B",
+          "bolimId": 4
+        },
+        {
+          "Text": "O‘zbekistonda qaysi faslning eng qisqa kuni bo‘ladi?",
+          "A": "Yoz",
+          "B": "Qish",
+          "C": "Bahor",
+          "D": "Kuz",
+          "AnswerKey": "B",
+          "bolimId": 4
+        },
+        {
+          "Text": "Eng katta quruqlik hayvoni qaysi?",
+          "A": "Fil",
+          "B": "Begemot",
+          "C": "Ot",
+          "D": "Sher",
+          "AnswerKey": "A",
+          "bolimId": 4
+        },
+        {
+          "Text": "Matematikada 1 soat nechchi daqiqa?",
+          "A": "30 daqiqa",
+          "B": "45 daqiqa",
+          "C": "60 daqiqa",
+          "D": "90 daqiqa",
+          "AnswerKey": "C",
+          "bolimId": 4
+        },
+        {
+          "Text": "Qaysi jonzot suvda ham, quruqlikda ham yashaydi?",
+          "A": "Ilon",
+          "B": "Qurbaqa",
+          "C": "Tulki",
+          "D": "Arslon",
+          "AnswerKey": "B",
+          "bolimId": 4
+        },
+        {
+          "Text": "Matematikada 2000 – 750 nechchi?",
+          "A": "1150",
+          "B": "1250",
+          "C": "1300",
+          "D": "1350",
+          "AnswerKey": "B",
+          "bolimId": 4
+        },
+        {
+          "Text": "Kompyuter klaviaturasidagi eng katta tugma qaysi?",
+          "A": "Enter",
+          "B": "Shift",
+          "C": "Space",
+          "D": "Ctrl",
+          "AnswerKey": "C",
+          "bolimId": 4
+        },
+        {
+          "Text": "Quyidagi qushlardan qaysi biri ucholmaydi?",
+          "A": "Qarg‘a",
+          "B": "Tovus",
+          "C": "Pingvin",
+          "D": "Qaldirg‘och",
+          "AnswerKey": "C",
+          "bolimId": 4
+        },
+        {
+          "Text": "Matematikada 45 ÷ 5 nechchi?",
+          "A": "8",
+          "B": "9",
+          "C": "10",
+          "D": "11",
+          "AnswerKey": "B",
+          "bolimId": 4
+        },
+        {
+          "Text": "O‘zbekiston davlat madhiyasi muallifi kim?",
+          "A": "Erkin Vohidov",
+          "B": "Abdulla Oripov",
+          "C": "G‘afur G‘ulom",
+          "D": "Alisher Navoiy",
+          "AnswerKey": "B",
+          "bolimId": 4
+        }
+      ]
+      

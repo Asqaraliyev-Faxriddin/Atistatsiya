@@ -1,1082 +1,770 @@
 [
   {
-    "Text": "Quyosh tizimidagi eng kichik sayyora qaysi?",
-    "A": "Merkuriy",
-    "B": "Venera",
-    "C": "Mars",
-    "D": "Yupiter",
-    "AnswerKey": "A",
-    "bolimId": 2
-  },
-  {
-    "Text": "O‘simlik quyosh nurini qabul qilishda yordam beradigan qaysi qism?",
+    "Text": "O‘simliklarning yashil qismi nima deb ataladi?",
     "A": "Ildiz",
-    "B": "Barg",
-    "C": "Gul",
-    "D": "Butun o‘simlik",
-    "AnswerKey": "B",
-    "bolimId": 2
-  },
-  {
-    "Text": "Suvning qattiq holati nima?",
-    "A": "Bug‘",
-    "B": "Suyuqlik",
-    "C": "Muz",
-    "D": "Tuman",
+    "B": "Poya",
+    "C": "Barg",
+    "D": "Gul",
     "AnswerKey": "C",
     "bolimId": 2
   },
   {
-    "Text": "Quyosh tizimidagi eng kichik sayyora qaysi?",
-    "A": "Merkuriy",
-    "B": "Venera",
-    "C": "Mars",
-    "D": "Yupiter",
+    "Text": "Qaysi qush odamlarning uyiga uya quradi?",
+    "A": "Qaldirg‘och",
+    "B": "Burgut",
+    "C": "Boyo‘g‘li",
+    "D": "To‘tiqush",
     "AnswerKey": "A",
     "bolimId": 2
   },
   {
-    "Text": "O‘simlik quyosh nurini qabul qilishda yordam beradigan qaysi qism?",
-    "A": "Ildiz",
-    "B": "Barg",
-    "C": "Gul",
-    "D": "Butun o‘simlik",
+    "Text": "Qaysi hayvon odamlarni tashishda yordam beradi?",
+    "A": "Sigir",
+    "B": "Ot",
+    "C": "Echki",
+    "D": "Mushuk",
     "AnswerKey": "B",
     "bolimId": 2
   },
   {
-    "Text": "Suvning qattiq holati nima?",
-    "A": "Bug‘",
-    "B": "Suyuqlik",
-    "C": "Muz",
-    "D": "Tuman",
-    "AnswerKey": "C",
-    "bolimId": 2
-  },
-  {
-    "Text": "Quyosh tizimidagi eng kichik sayyora qaysi?",
-    "A": "Merkuriy",
-    "B": "Venera",
-    "C": "Mars",
-    "D": "Yupiter",
+    "Text": "Suvning qaysi holati qattiq hisoblanadi?",
+    "A": "Muz",
+    "B": "Bug‘",
+    "C": "Daryo suvi",
+    "D": "Yomg‘ir",
     "AnswerKey": "A",
     "bolimId": 2
   },
   {
-    "Text": "O‘simlik quyosh nurini qabul qilishda yordam beradigan qaysi qism?",
-    "A": "Ildiz",
-    "B": "Barg",
-    "C": "Gul",
-    "D": "Butun o‘simlik",
-    "AnswerKey": "B",
-    "bolimId": 2
-  },
-  {
-    "Text": "Suvning qattiq holati nima?",
-    "A": "Bug‘",
-    "B": "Suyuqlik",
-    "C": "Muz",
-    "D": "Tuman",
-    "AnswerKey": "C",
-    "bolimId": 2
-  },
-  {
-    "Text": "Quyosh tizimidagi eng kichik sayyora qaysi?",
-    "A": "Merkuriy",
-    "B": "Venera",
-    "C": "Mars",
-    "D": "Yupiter",
+    "Text": "Quyoshdan odamlar nimalar oladi?",
+    "A": "Issiqlik va yorug‘lik",
+    "B": "Havo",
+    "C": "Oziq-ovqat",
+    "D": "Suv",
     "AnswerKey": "A",
     "bolimId": 2
   },
   {
-    "Text": "O‘simlik quyosh nurini qabul qilishda yordam beradigan qaysi qism?",
-    "A": "Ildiz",
-    "B": "Barg",
-    "C": "Gul",
-    "D": "Butun o‘simlik",
+    "Text": "Qaysi faslda daraxtlarning barglari sarg‘ayadi?",
+    "A": "Qishda",
+    "B": "Bahorda",
+    "C": "Yozda",
+    "D": "Kuzda",
+    "AnswerKey": "D",
+    "bolimId": 2
+  },
+  {
+    "Text": "Odamlarning yurak urishi nimani bildiradi?",
+    "A": "Ovqat hazm bo‘lishini",
+    "B": "Qon aylanishini",
+    "C": "Havoning haroratini",
+    "D": "Odamning kuchini",
     "AnswerKey": "B",
     "bolimId": 2
   },
   {
-    "Text": "Suvning qattiq holati nima?",
-    "A": "Bug‘",
-    "B": "Suyuqlik",
-    "C": "Muz",
-    "D": "Tuman",
+    "Text": "Daraxtning qaysi qismi yer ostida joylashadi?",
+    "A": "Shox",
+    "B": "Barg",
+    "C": "Ildiz",
+    "D": "Poya",
     "AnswerKey": "C",
     "bolimId": 2
   },
   {
-    "Text": "Quyosh tizimidagi eng kichik sayyora qaysi?",
-    "A": "Merkuriy",
-    "B": "Venera",
-    "C": "Mars",
-    "D": "Yupiter",
+    "Text": "Qaysi hayvon tuxum qo‘yadi?",
+    "A": "Sigir",
+    "B": "Ot",
+    "C": "Tovuq",
+    "D": "Mushuk",
+    "AnswerKey": "C",
+    "bolimId": 2
+  },
+  {
+    "Text": "Odamlar nafas olish uchun nimaga muhtoj?",
+    "A": "Oziq-ovqat",
+    "B": "Suv",
+    "C": "Havo",
+    "D": "Quyosh",
+    "AnswerKey": "C",
+    "bolimId": 2
+  },
+  {
+    "Text": "Suv bug‘langanda nimaga aylanadi?",
+    "A": "Qorga",
+    "B": "Yomg‘irga",
+    "C": "Bug‘ga",
+    "D": "Muzga",
+    "AnswerKey": "C",
+    "bolimId": 2
+  },
+  {
+    "Text": "O‘simliklarning ildizi nima qiladi?",
+    "A": "Meva beradi",
+    "B": "Suv va oziqa oladi",
+    "C": "Quyosh nuri chiqaradi",
+    "D": "Barglarni oziqlantiradi",
+    "AnswerKey": "B",
+    "bolimId": 2
+  },
+  {
+    "Text": "Qaysi faslda odamlar ko‘proq qalin kiyim kiyadi?",
+    "A": "Bahorda",
+    "B": "Yozda",
+    "C": "Qishda",
+    "D": "Kuzda",
+    "AnswerKey": "C",
+    "bolimId": 2
+  },
+  {
+    "Text": "Odamlar ichish uchun qanday suvni tanlashlari kerak?",
+    "A": "Iflos suv",
+    "B": "Toza suv",
+    "C": "Sho‘r suv",
+    "D": "Dengiz suvi",
+    "AnswerKey": "B",
+    "bolimId": 2
+  },
+  {
+    "Text": "Qushlar qanday nafas oladi?",
+    "A": "Baliq kabi",
+    "B": "O‘pka orqali",
+    "C": "Ildiz orqali",
+    "D": "Teri orqali",
+    "AnswerKey": "B",
+    "bolimId": 2
+  },
+  {
+    "Text": "Yer yuzining katta qismini nima egallagan?",
+    "A": "Cho‘l",
+    "B": "Suv",
+    "C": "O‘rmon",
+    "D": "Tog‘",
+    "AnswerKey": "B",
+    "bolimId": 2
+  },
+  {
+    "Text": "Qaysi jonivor suvda yashaydi?",
+    "A": "Quyon",
+    "B": "Baliq",
+    "C": "Mushuk",
+    "D": "Ot",
+    "AnswerKey": "B",
+    "bolimId": 2
+  },
+  {
+    "Text": "Insonlarga havo nima uchun kerak?",
+    "A": "Yurish uchun",
+    "B": "Nafas olish uchun",
+    "C": "O‘qish uchun",
+    "D": "O‘ynash uchun",
+    "AnswerKey": "B",
+    "bolimId": 2
+  },
+  {
+    "Text": "O‘simliklar kislorodni qachon chiqaradi?",
+    "A": "Kunduzi",
+    "B": "Faqat kechasi",
+    "C": "Qishda",
+    "D": "Har doim",
     "AnswerKey": "A",
     "bolimId": 2
   },
   {
-    "Text": "O‘simlik quyosh nurini qabul qilishda yordam beradigan qaysi qism?",
-    "A": "Ildiz",
-    "B": "Barg",
-    "C": "Gul",
-    "D": "Butun o‘simlik",
-    "AnswerKey": "B",
-    "bolimId": 2
-  },
-  {
-    "Text": "Suvning qattiq holati nima?",
-    "A": "Bug‘",
-    "B": "Suyuqlik",
-    "C": "Muz",
-    "D": "Tuman",
-    "AnswerKey": "C",
-    "bolimId": 2
-  },
-  {
-    "Text": "Quyosh tizimidagi eng kichik sayyora qaysi?",
-    "A": "Merkuriy",
-    "B": "Venera",
-    "C": "Mars",
-    "D": "Yupiter",
+    "Text": "Odamlar sog‘lom bo‘lishi uchun nima kerak?",
+    "A": "Toza suv, havo va ovqat",
+    "B": "Faqat shirinlik",
+    "C": "Ko‘p o‘yin",
+    "D": "Issiq kiyim",
     "AnswerKey": "A",
     "bolimId": 2
   },
-  {
-    "Text": "O‘simlik quyosh nurini qabul qilishda yordam beradigan qaysi qism?",
-    "A": "Ildiz",
-    "B": "Barg",
-    "C": "Gul",
-    "D": "Butun o‘simlik",
-    "AnswerKey": "B",
-    "bolimId": 2
-  },
-  {
-    "Text": "Suvning qattiq holati nima?",
-    "A": "Bug‘",
-    "B": "Suyuqlik",
-    "C": "Muz",
-    "D": "Tuman",
-    "AnswerKey": "C",
-    "bolimId": 2
-  },
-  {
-    "Text": "Quyosh tizimidagi eng kichik sayyora qaysi?",
-    "A": "Merkuriy",
-    "B": "Venera",
-    "C": "Mars",
-    "D": "Yupiter",
-    "AnswerKey": "A",
-    "bolimId": 2
-  },
-  {
-    "Text": "O‘simlik quyosh nurini qabul qilishda yordam beradigan qaysi qism?",
-    "A": "Ildiz",
-    "B": "Barg",
-    "C": "Gul",
-    "D": "Butun o‘simlik",
-    "AnswerKey": "B",
-    "bolimId": 2
-  },
-  {
-    "Text": "Suvning qattiq holati nima?",
-    "A": "Bug‘",
-    "B": "Suyuqlik",
-    "C": "Muz",
-    "D": "Tuman",
-    "AnswerKey": "C",
-    "bolimId": 2
-  },
-  {
-    "Text": "Quyosh tizimidagi eng kichik sayyora qaysi?",
-    "A": "Merkuriy",
-    "B": "Venera",
-    "C": "Mars",
-    "D": "Yupiter",
-    "AnswerKey": "A",
-    "bolimId": 2
-  },
-  {
-    "Text": "O‘simlik quyosh nurini qabul qilishda yordam beradigan qaysi qism?",
-    "A": "Ildiz",
-    "B": "Barg",
-    "C": "Gul",
-    "D": "Butun o‘simlik",
-    "AnswerKey": "B",
-    "bolimId": 2
-  },
-  {
-    "Text": "Suvning qattiq holati nima?",
-    "A": "Bug‘",
-    "B": "Suyuqlik",
-    "C": "Muz",
-    "D": "Tuman",
-    "AnswerKey": "C",
-    "bolimId": 2
-  },
-  {
-    "Text": "Quyosh tizimidagi eng kichik sayyora qaysi?",
-    "A": "Merkuriy",
-    "B": "Venera",
-    "C": "Mars",
-    "D": "Yupiter",
-    "AnswerKey": "A",
-    "bolimId": 2
-  },
-  {
-    "Text": "O‘simlik quyosh nurini qabul qilishda yordam beradigan qaysi qism?",
-    "A": "Ildiz",
-    "B": "Barg",
-    "C": "Gul",
-    "D": "Butun o‘simlik",
-    "AnswerKey": "B",
-    "bolimId": 2
-  },
-  {
-    "Text": "Suvning qattiq holati nima?",
-    "A": "Bug‘",
-    "B": "Suyuqlik",
-    "C": "Muz",
-    "D": "Tuman",
-    "AnswerKey": "C",
-    "bolimId": 2
-  },
-  {
-    "Text": "Quyosh tizimidagi eng kichik sayyora qaysi?",
-    "A": "Merkuriy",
-    "B": "Venera",
-    "C": "Mars",
-    "D": "Yupiter",
-    "AnswerKey": "A",
-    "bolimId": 2
-  },
-  {
-    "Text": "O‘simlik quyosh nurini qabul qilishda yordam beradigan qaysi qism?",
-    "A": "Ildiz",
-    "B": "Barg",
-    "C": "Gul",
-    "D": "Butun o‘simlik",
-    "AnswerKey": "B",
-    "bolimId": 2
-  },
-  {
-    "Text": "Suvning qattiq holati nima?",
-    "A": "Bug‘",
-    "B": "Suyuqlik",
-    "C": "Muz",
-    "D": "Tuman",
-    "AnswerKey": "C",
-    "bolimId": 2
-  },
-  {
-    "Text": "Quyosh tizimidagi eng kichik sayyora qaysi?",
-    "A": "Merkuriy",
-    "B": "Venera",
-    "C": "Mars",
-    "D": "Yupiter",
-    "AnswerKey": "A",
-    "bolimId": 2
-  },
-  {
-    "Text": "O‘simlik quyosh nurini qabul qilishda yordam beradigan qaysi qism?",
-    "A": "Ildiz",
-    "B": "Barg",
-    "C": "Gul",
-    "D": "Butun o‘simlik",
-    "AnswerKey": "B",
-    "bolimId": 2
-  },
-  {
-    "Text": "Suvning qattiq holati nima?",
-    "A": "Bug‘",
-    "B": "Suyuqlik",
-    "C": "Muz",
-    "D": "Tuman",
-    "AnswerKey": "C",
-    "bolimId": 2
-  },
-  {
-    "Text": "Quyosh tizimidagi eng kichik sayyora qaysi?",
-    "A": "Merkuriy",
-    "B": "Venera",
-    "C": "Mars",
-    "D": "Yupiter",
-    "AnswerKey": "A",
-    "bolimId": 2
-  },
-  {
-    "Text": "O‘simlik quyosh nurini qabul qilishda yordam beradigan qaysi qism?",
-    "A": "Ildiz",
-    "B": "Barg",
-    "C": "Gul",
-    "D": "Butun o‘simlik",
-    "AnswerKey": "B",
-    "bolimId": 2
-  },
-  {
-    "Text": "Suvning qattiq holati nima?",
-    "A": "Bug‘",
-    "B": "Suyuqlik",
-    "C": "Muz",
-    "D": "Tuman",
-    "AnswerKey": "C",
-    "bolimId": 2
-  },
-  {
-    "Text": "Quyosh tizimidagi eng kichik sayyora qaysi?",
-    "A": "Merkuriy",
-    "B": "Venera",
-    "C": "Mars",
-    "D": "Yupiter",
-    "AnswerKey": "A",
-    "bolimId": 2
-  },
-  {
-    "Text": "O‘simlik quyosh nurini qabul qilishda yordam beradigan qaysi qism?",
-    "A": "Ildiz",
-    "B": "Barg",
-    "C": "Gul",
-    "D": "Butun o‘simlik",
-    "AnswerKey": "B",
-    "bolimId": 2
-  },
-  {
-    "Text": "Suvning qattiq holati nima?",
-    "A": "Bug‘",
-    "B": "Suyuqlik",
-    "C": "Muz",
-    "D": "Tuman",
-    "AnswerKey": "C",
-    "bolimId": 2
-  },
-  {
-    "Text": "Quyosh tizimidagi eng kichik sayyora qaysi?",
-    "A": "Merkuriy",
-    "B": "Venera",
-    "C": "Mars",
-    "D": "Yupiter",
-    "AnswerKey": "A",
-    "bolimId": 2
-  },
-  {
-    "Text": "O‘simlik quyosh nurini qabul qilishda yordam beradigan qaysi qism?",
-    "A": "Ildiz",
-    "B": "Barg",
-    "C": "Gul",
-    "D": "Butun o‘simlik",
-    "AnswerKey": "B",
-    "bolimId": 2
-  },
-  {
-    "Text": "Suvning qattiq holati nima?",
-    "A": "Bug‘",
-    "B": "Suyuqlik",
-    "C": "Muz",
-    "D": "Tuman",
-    "AnswerKey": "C",
-    "bolimId": 2
-  },
-  {
-    "Text": "Quyosh tizimidagi eng kichik sayyora qaysi?",
-    "A": "Merkuriy",
-    "B": "Venera",
-    "C": "Mars",
-    "D": "Yupiter",
-    "AnswerKey": "A",
-    "bolimId": 2
-  },
-  {
-    "Text": "O‘simlik quyosh nurini qabul qilishda yordam beradigan qaysi qism?",
-    "A": "Ildiz",
-    "B": "Barg",
-    "C": "Gul",
-    "D": "Butun o‘simlik",
-    "AnswerKey": "B",
-    "bolimId": 2
-  },
-  {
-    "Text": "Suvning qattiq holati nima?",
-    "A": "Bug‘",
-    "B": "Suyuqlik",
-    "C": "Muz",
-    "D": "Tuman",
-    "AnswerKey": "C",
-    "bolimId": 2
-  },
-  {
-    "Text": "Quyosh tizimidagi eng kichik sayyora qaysi?",
-    "A": "Merkuriy",
-    "B": "Venera",
-    "C": "Mars",
-    "D": "Yupiter",
-    "AnswerKey": "A",
-    "bolimId": 2
-  },
-  {
-    "Text": "O‘simlik quyosh nurini qabul qilishda yordam beradigan qaysi qism?",
-    "A": "Ildiz",
-    "B": "Barg",
-    "C": "Gul",
-    "D": "Butun o‘simlik",
-    "AnswerKey": "B",
-    "bolimId": 2
-  },
-  {
-    "Text": "Suvning qattiq holati nima?",
-    "A": "Bug‘",
-    "B": "Suyuqlik",
-    "C": "Muz",
-    "D": "Tuman",
-    "AnswerKey": "C",
-    "bolimId": 2
-  },
-  {
-    "Text": "Quyosh tizimidagi eng kichik sayyora qaysi?",
-    "A": "Merkuriy",
-    "B": "Venera",
-    "C": "Mars",
-    "D": "Yupiter",
-    "AnswerKey": "A",
-    "bolimId": 2
-  },
-  {
-    "Text": "O‘simlik quyosh nurini qabul qilishda yordam beradigan qaysi qism?",
-    "A": "Ildiz",
-    "B": "Barg",
-    "C": "Gul",
-    "D": "Butun o‘simlik",
-    "AnswerKey": "B",
-    "bolimId": 2
-  },
-  {
-    "Text": "Suvning qattiq holati nima?",
-    "A": "Bug‘",
-    "B": "Suyuqlik",
-    "C": "Muz",
-    "D": "Tuman",
-    "AnswerKey": "C",
-    "bolimId": 2
-  },
-  {
-    "Text": "Quyosh tizimidagi eng kichik sayyora qaysi?",
-    "A": "Merkuriy",
-    "B": "Venera",
-    "C": "Mars",
-    "D": "Yupiter",
-    "AnswerKey": "A",
-    "bolimId": 2
-  },
-  {
-    "Text": "O‘simlik quyosh nurini qabul qilishda yordam beradigan qaysi qism?",
-    "A": "Ildiz",
-    "B": "Barg",
-    "C": "Gul",
-    "D": "Butun o‘simlik",
-    "AnswerKey": "B",
-    "bolimId": 2
-  },
-  {
-    "Text": "Suvning qattiq holati nima?",
-    "A": "Bug‘",
-    "B": "Suyuqlik",
-    "C": "Muz",
-    "D": "Tuman",
-    "AnswerKey": "C",
-    "bolimId": 2
-  },
-  {
-    "Text": "Quyosh tizimidagi eng kichik sayyora qaysi?",
-    "A": "Merkuriy",
-    "B": "Venera",
-    "C": "Mars",
-    "D": "Yupiter",
-    "AnswerKey": "A",
-    "bolimId": 2
-  },
-  {
-    "Text": "O‘simlik quyosh nurini qabul qilishda yordam beradigan qaysi qism?",
-    "A": "Ildiz",
-    "B": "Barg",
-    "C": "Gul",
-    "D": "Butun o‘simlik",
-    "AnswerKey": "B",
-    "bolimId": 2
-  },
-  {
-    "Text": "Suvning qattiq holati nima?",
-    "A": "Bug‘",
-    "B": "Suyuqlik",
-    "C": "Muz",
-    "D": "Tuman",
-    "AnswerKey": "C",
-    "bolimId": 2
-  },
-  {
-    "Text": "Quyosh tizimidagi eng kichik sayyora qaysi?",
-    "A": "Merkuriy",
-    "B": "Venera",
-    "C": "Mars",
-    "D": "Yupiter",
-    "AnswerKey": "A",
-    "bolimId": 2
-  },
-  {
-    "Text": "O‘simlik quyosh nurini qabul qilishda yordam beradigan qaysi qism?",
-    "A": "Ildiz",
-    "B": "Barg",
-    "C": "Gul",
-    "D": "Butun o‘simlik",
-    "AnswerKey": "B",
-    "bolimId": 2
-  },
-  {
-    "Text": "Suvning qattiq holati nima?",
-    "A": "Bug‘",
-    "B": "Suyuqlik",
-    "C": "Muz",
-    "D": "Tuman",
-    "AnswerKey": "C",
-    "bolimId": 2
-  },
-  {
-    "Text": "Quyosh tizimidagi eng kichik sayyora qaysi?",
-    "A": "Merkuriy",
-    "B": "Venera",
-    "C": "Mars",
-    "D": "Yupiter",
-    "AnswerKey": "A",
-    "bolimId": 2
-  },
-  {
-    "Text": "O‘simlik quyosh nurini qabul qilishda yordam beradigan qaysi qism?",
-    "A": "Ildiz",
-    "B": "Barg",
-    "C": "Gul",
-    "D": "Butun o‘simlik",
-    "AnswerKey": "B",
-    "bolimId": 2
-  },
-  {
-    "Text": "Suvning qattiq holati nima?",
-    "A": "Bug‘",
-    "B": "Suyuqlik",
-    "C": "Muz",
-    "D": "Tuman",
-    "AnswerKey": "C",
-    "bolimId": 2
-  },
-  {
-    "Text": "Quyosh tizimidagi eng kichik sayyora qaysi?",
-    "A": "Merkuriy",
-    "B": "Venera",
-    "C": "Mars",
-    "D": "Yupiter",
-    "AnswerKey": "A",
-    "bolimId": 2
-  },
-  {
-    "Text": "O‘simlik quyosh nurini qabul qilishda yordam beradigan qaysi qism?",
-    "A": "Ildiz",
-    "B": "Barg",
-    "C": "Gul",
-    "D": "Butun o‘simlik",
-    "AnswerKey": "B",
-    "bolimId": 2
-  },
-  {
-    "Text": "Suvning qattiq holati nima?",
-    "A": "Bug‘",
-    "B": "Suyuqlik",
-    "C": "Muz",
-    "D": "Tuman",
-    "AnswerKey": "C",
-    "bolimId": 2
-  },
-  {
-    "Text": "Quyosh tizimidagi eng kichik sayyora qaysi?",
-    "A": "Merkuriy",
-    "B": "Venera",
-    "C": "Mars",
-    "D": "Yupiter",
-    "AnswerKey": "A",
-    "bolimId": 2
-  },
-  {
-    "Text": "O‘simlik quyosh nurini qabul qilishda yordam beradigan qaysi qism?",
-    "A": "Ildiz",
-    "B": "Barg",
-    "C": "Gul",
-    "D": "Butun o‘simlik",
-    "AnswerKey": "B",
-    "bolimId": 2
-  },
-  {
-    "Text": "Suvning qattiq holati nima?",
-    "A": "Bug‘",
-    "B": "Suyuqlik",
-    "C": "Muz",
-    "D": "Tuman",
-    "AnswerKey": "C",
-    "bolimId": 2
-  },
-  {
-    "Text": "Quyosh tizimidagi eng kichik sayyora qaysi?",
-    "A": "Merkuriy",
-    "B": "Venera",
-    "C": "Mars",
-    "D": "Yupiter",
-    "AnswerKey": "A",
-    "bolimId": 2
-  },
-  {
-    "Text": "O‘simlik quyosh nurini qabul qilishda yordam beradigan qaysi qism?",
-    "A": "Ildiz",
-    "B": "Barg",
-    "C": "Gul",
-    "D": "Butun o‘simlik",
-    "AnswerKey": "B",
-    "bolimId": 2
-  },
-  {
-    "Text": "Suvning qattiq holati nima?",
-    "A": "Bug‘",
-    "B": "Suyuqlik",
-    "C": "Muz",
-    "D": "Tuman",
-    "AnswerKey": "C",
-    "bolimId": 2
-  },
-  {
-    "Text": "Quyosh tizimidagi eng kichik sayyora qaysi?",
-    "A": "Merkuriy",
-    "B": "Venera",
-    "C": "Mars",
-    "D": "Yupiter",
-    "AnswerKey": "A",
-    "bolimId": 2
-  },
-  {
-    "Text": "O‘simlik quyosh nurini qabul qilishda yordam beradigan qaysi qism?",
-    "A": "Ildiz",
-    "B": "Barg",
-    "C": "Gul",
-    "D": "Butun o‘simlik",
-    "AnswerKey": "B",
-    "bolimId": 2
-  },
-  {
-    "Text": "Suvning qattiq holati nima?",
-    "A": "Bug‘",
-    "B": "Suyuqlik",
-    "C": "Muz",
-    "D": "Tuman",
-    "AnswerKey": "C",
-    "bolimId": 2
-  },
-  {
-    "Text": "Quyosh tizimidagi eng kichik sayyora qaysi?",
-    "A": "Merkuriy",
-    "B": "Venera",
-    "C": "Mars",
-    "D": "Yupiter",
-    "AnswerKey": "A",
-    "bolimId": 2
-  },
-  {
-    "Text": "O‘simlik quyosh nurini qabul qilishda yordam beradigan qaysi qism?",
-    "A": "Ildiz",
-    "B": "Barg",
-    "C": "Gul",
-    "D": "Butun o‘simlik",
-    "AnswerKey": "B",
-    "bolimId": 2
-  },
-  {
-    "Text": "Suvning qattiq holati nima?",
-    "A": "Bug‘",
-    "B": "Suyuqlik",
-    "C": "Muz",
-    "D": "Tuman",
-    "AnswerKey": "C",
-    "bolimId": 2
-  },
-  {
-    "Text": "Quyosh tizimidagi eng kichik sayyora qaysi?",
-    "A": "Merkuriy",
-    "B": "Venera",
-    "C": "Mars",
-    "D": "Yupiter",
-    "AnswerKey": "A",
-    "bolimId": 2
-  },
-  {
-    "Text": "O‘simlik quyosh nurini qabul qilishda yordam beradigan qaysi qism?",
-    "A": "Ildiz",
-    "B": "Barg",
-    "C": "Gul",
-    "D": "Butun o‘simlik",
-    "AnswerKey": "B",
-    "bolimId": 2
-  },
-  {
-    "Text": "Suvning qattiq holati nima?",
-    "A": "Bug‘",
-    "B": "Suyuqlik",
-    "C": "Muz",
-    "D": "Tuman",
-    "AnswerKey": "C",
-    "bolimId": 2
-  },
-  {
-    "Text": "Quyosh tizimidagi eng kichik sayyora qaysi?",
-    "A": "Merkuriy",
-    "B": "Venera",
-    "C": "Mars",
-    "D": "Yupiter",
-    "AnswerKey": "A",
-    "bolimId": 2
-  },
-  {
-    "Text": "O‘simlik quyosh nurini qabul qilishda yordam beradigan qaysi qism?",
-    "A": "Ildiz",
-    "B": "Barg",
-    "C": "Gul",
-    "D": "Butun o‘simlik",
-    "AnswerKey": "B",
-    "bolimId": 2
-  },
-  {
-    "Text": "Suvning qattiq holati nima?",
-    "A": "Bug‘",
-    "B": "Suyuqlik",
-    "C": "Muz",
-    "D": "Tuman",
-    "AnswerKey": "C",
-    "bolimId": 2
-  },
-  {
-    "Text": "Quyosh tizimidagi eng kichik sayyora qaysi?",
-    "A": "Merkuriy",
-    "B": "Venera",
-    "C": "Mars",
-    "D": "Yupiter",
-    "AnswerKey": "A",
-    "bolimId": 2
-  },
-  {
-    "Text": "O‘simlik quyosh nurini qabul qilishda yordam beradigan qaysi qism?",
-    "A": "Ildiz",
-    "B": "Barg",
-    "C": "Gul",
-    "D": "Butun o‘simlik",
-    "AnswerKey": "B",
-    "bolimId": 2
-  },
-  {
-    "Text": "Suvning qattiq holati nima?",
-    "A": "Bug‘",
-    "B": "Suyuqlik",
-    "C": "Muz",
-    "D": "Tuman",
-    "AnswerKey": "C",
-    "bolimId": 2
-  },
-  {
-    "Text": "Quyosh tizimidagi eng kichik sayyora qaysi?",
-    "A": "Merkuriy",
-    "B": "Venera",
-    "C": "Mars",
-    "D": "Yupiter",
-    "AnswerKey": "A",
-    "bolimId": 2
-  },
-  {
-    "Text": "O‘simlik quyosh nurini qabul qilishda yordam beradigan qaysi qism?",
-    "A": "Ildiz",
-    "B": "Barg",
-    "C": "Gul",
-    "D": "Butun o‘simlik",
-    "AnswerKey": "B",
-    "bolimId": 2
-  },
-  {
-    "Text": "Suvning qattiq holati nima?",
-    "A": "Bug‘",
-    "B": "Suyuqlik",
-    "C": "Muz",
-    "D": "Tuman",
-    "AnswerKey": "C",
-    "bolimId": 2
-  },
-  {
-    "Text": "Quyosh tizimidagi eng kichik sayyora qaysi?",
-    "A": "Merkuriy",
-    "B": "Venera",
-    "C": "Mars",
-    "D": "Yupiter",
-    "AnswerKey": "A",
-    "bolimId": 2
-  },
-  {
-    "Text": "O‘simlik quyosh nurini qabul qilishda yordam beradigan qaysi qism?",
-    "A": "Ildiz",
-    "B": "Barg",
-    "C": "Gul",
-    "D": "Butun o‘simlik",
-    "AnswerKey": "B",
-    "bolimId": 2
-  },
-  {
-    "Text": "Suvning qattiq holati nima?",
-    "A": "Bug‘",
-    "B": "Suyuqlik",
-    "C": "Muz",
-    "D": "Tuman",
-    "AnswerKey": "C",
-    "bolimId": 2
-  },
-  {
-    "Text": "Quyosh tizimidagi eng kichik sayyora qaysi?",
-    "A": "Merkuriy",
-    "B": "Venera",
-    "C": "Mars",
-    "D": "Yupiter",
-    "AnswerKey": "A",
-    "bolimId": 2
-  },
-  {
-    "Text": "O‘simlik quyosh nurini qabul qilishda yordam beradigan qaysi qism?",
-    "A": "Ildiz",
-    "B": "Barg",
-    "C": "Gul",
-    "D": "Butun o‘simlik",
-    "AnswerKey": "B",
-    "bolimId": 2
-  },
-  {
-    "Text": "Suvning qattiq holati nima?",
-    "A": "Bug‘",
-    "B": "Suyuqlik",
-    "C": "Muz",
-    "D": "Tuman",
-    "AnswerKey": "C",
-    "bolimId": 2
-  },
-  {
-    "Text": "Quyosh tizimidagi eng kichik sayyora qaysi?",
-    "A": "Merkuriy",
-    "B": "Venera",
-    "C": "Mars",
-    "D": "Yupiter",
-    "AnswerKey": "A",
-    "bolimId": 2
-  },
-  {
-    "Text": "O‘simlik quyosh nurini qabul qilishda yordam beradigan qaysi qism?",
-    "A": "Ildiz",
-    "B": "Barg",
-    "C": "Gul",
-    "D": "Butun o‘simlik",
-    "AnswerKey": "B",
-    "bolimId": 2
-  },
-  {
-    "Text": "Suvning qattiq holati nima?",
-    "A": "Bug‘",
-    "B": "Suyuqlik",
-    "C": "Muz",
-    "D": "Tuman",
-    "AnswerKey": "C",
-    "bolimId": 2
-  },
-  {
-    "Text": "Quyosh tizimidagi eng kichik sayyora qaysi?",
-    "A": "Merkuriy",
-    "B": "Venera",
-    "C": "Mars",
-    "D": "Yupiter",
-    "AnswerKey": "A",
-    "bolimId": 2
-  },
-  {
-    "Text": "O‘simlik quyosh nurini qabul qilishda yordam beradigan qaysi qism?",
-    "A": "Ildiz",
-    "B": "Barg",
-    "C": "Gul",
-    "D": "Butun o‘simlik",
-    "AnswerKey": "B",
-    "bolimId": 2
-  },
-  {
-    "Text": "Suvning qattiq holati nima?",
-    "A": "Bug‘",
-    "B": "Suyuqlik",
-    "C": "Muz",
-    "D": "Tuman",
-    "AnswerKey": "C",
-    "bolimId": 2
-  },
-  {
-    "Text": "Quyosh tizimidagi eng kichik sayyora qaysi?",
-    "A": "Merkuriy",
-    "B": "Venera",
-    "C": "Mars",
-    "D": "Yupiter",
-    "AnswerKey": "A",
-    "bolimId": 2
-  },
-  {
-    "Text": "O‘simlik quyosh nurini qabul qilishda yordam beradigan qaysi qism?",
-    "A": "Ildiz",
-    "B": "Barg",
-    "C": "Gul",
-    "D": "Butun o‘simlik",
-    "AnswerKey": "B",
-    "bolimId": 2
-  },
-  {
-    "Text": "Suvning qattiq holati nima?",
-    "A": "Bug‘",
-    "B": "Suyuqlik",
-    "C": "Muz",
-    "D": "Tuman",
-    "AnswerKey": "C",
-    "bolimId": 2
-  },
-  {
-    "Text": "Quyosh tizimidagi eng kichik sayyora qaysi?",
-    "A": "Merkuriy",
-    "B": "Venera",
-    "C": "Mars",
-    "D": "Yupiter",
-    "AnswerKey": "A",
-    "bolimId": 2
-  },
-  {
-    "Text": "O‘simlik quyosh nurini qabul qilishda yordam beradigan qaysi qism?",
-    "A": "Ildiz",
-    "B": "Barg",
-    "C": "Gul",
-    "D": "Butun o‘simlik",
-    "AnswerKey": "B",
-    "bolimId": 2
-  },
-  {
-    "Text": "Suvning qattiq holati nima?",
-    "A": "Bug‘",
-    "B": "Suyuqlik",
-    "C": "Muz",
-    "D": "Tuman",
-    "AnswerKey": "C",
-    "bolimId": 2
-  },
-  {
-    "Text": "Quyosh tizimidagi eng kichik sayyora qaysi?",
-    "A": "Merkuriy",
-    "B": "Venera",
-    "C": "Mars",
-    "D": "Yupiter",
-    "AnswerKey": "A",
-    "bolimId": 2
-  },
-  {
-    "Text": "O‘simlik quyosh nurini qabul qilishda yordam beradigan qaysi qism?",
-    "A": "Ildiz",
-    "B": "Barg",
-    "C": "Gul",
-    "D": "Butun o‘simlik",
-    "AnswerKey": "B",
-    "bolimId": 2
-  },
-  {
-    "Text": "Suvning qattiq holati nima?",
-    "A": "Bug‘",
-    "B": "Suyuqlik",
-    "C": "Muz",
-    "D": "Tuman",
-    "AnswerKey": "C",
-    "bolimId": 2
-  },
-  {
-    "Text": "Quyosh tizimidagi eng kichik sayyora qaysi?",
-    "A": "Merkuriy",
-    "B": "Venera",
-    "C": "Mars",
-    "D": "Yupiter",
-    "AnswerKey": "A",
-    "bolimId": 2
-  },
-  {
-    "Text": "O‘simlik quyosh nurini qabul qilishda yordam beradigan qaysi qism?",
-    "A": "Ildiz",
-    "B": "Barg",
-    "C": "Gul",
-    "D": "Butun o‘simlik",
-    "AnswerKey": "B",
-    "bolimId": 2
-  },
-  {
-    "Text": "Suvning qattiq holati nima?",
-    "A": "Bug‘",
-    "B": "Suyuqlik",
-    "C": "Muz",
-    "D": "Tuman",
-    "AnswerKey": "C",
-    "bolimId": 2
-  },
-  {
-    "Text": "Quyosh tizimidagi eng kichik sayyora qaysi?",
-    "A": "Merkuriy",
-    "B": "Venera",
-    "C": "Mars",
-    "D": "Yupiter",
-    "AnswerKey": "A",
-    "bolimId": 2
-  },
-  {
-    "Text": "O‘simlik quyosh nurini qabul qilishda yordam beradigan qaysi qism?",
-    "A": "Ildiz",
-    "B": "Barg",
-    "C": "Gul",
-    "D": "Butun o‘simlik",
-    "AnswerKey": "B",
-    "bolimId": 2
-  },
-  {
-    "Text": "Suvning qattiq holati nima?",
-    "A": "Bug‘",
-    "B": "Suyuqlik",
-    "C": "Muz",
-    "D": "Tuman",
-    "AnswerKey": "C",
-    "bolimId": 2
-  },
-  {
-    "Text": "Quyosh tizimidagi eng kichik sayyora qaysi?",
-    "A": "Merkuriy",
-    "B": "Venera",
-    "C": "Mars",
-    "D": "Yupiter",
-    "AnswerKey": "A",
-    "bolimId": 2
-  },
-  {
-    "Text": "O‘simlik quyosh nurini qabul qilishda yordam beradigan qaysi qism?",
-    "A": "Ildiz",
-    "B": "Barg",
-    "C": "Gul",
-    "D": "Butun o‘simlik",
-    "AnswerKey": "B",
-    "bolimId": 2
-  },
-  {
-    "Text": "Suvning qattiq holati nima?",
-    "A": "Bug‘",
-    "B": "Suyuqlik",
-    "C": "Muz",
-    "D": "Tuman",
-    "AnswerKey": "C",
-    "bolimId": 2
-  }
-]
+    {
+      "Text": "Qaysi hayvon qishda uyquga ketadi?",
+      "A": "Quyon",
+      "B": "Ayiq",
+      "C": "Sigir",
+      "D": "It",
+      "AnswerKey": "B",
+      "bolimId": 2
+    },
+    {
+      "Text": "Qaysi organ odam tanasida qon haydaydi?",
+      "A": "Miya",
+      "B": "Jigar",
+      "C": "Yurak",
+      "D": "O‘pka",
+      "AnswerKey": "C",
+      "bolimId": 2
+    },
+    {
+      "Text": "Quyosh chiqadigan tomonni nima deb atashadi?",
+      "A": "G‘arb",
+      "B": "Shimol",
+      "C": "Janub",
+      "D": "Sharq",
+      "AnswerKey": "D",
+      "bolimId": 2
+    },
+    {
+      "Text": "Inson qaysi a’zosi bilan eshitadi?",
+      "A": "Burun",
+      "B": "Ko‘z",
+      "C": "Quloq",
+      "D": "Og‘iz",
+      "AnswerKey": "C",
+      "bolimId": 2
+    },
+    {
+      "Text": "O‘simlikning gullash fasli qaysi?",
+      "A": "Qish",
+      "B": "Bahor",
+      "C": "Kuz",
+      "D": "Yoz",
+      "AnswerKey": "B",
+      "bolimId": 2
+    },
+    {
+      "Text": "Qaysi hayvon dumini qisib yuradi?",
+      "A": "Quyon",
+      "B": "Tulki",
+      "C": "Baliq",
+      "D": "Echki",
+      "AnswerKey": "A",
+      "bolimId": 2
+    },
+    {
+      "Text": "Yerning tabiiy yo‘ldoshi nima?",
+      "A": "Oy",
+      "B": "Quyosh",
+      "C": "Yulduz",
+      "D": "Mars",
+      "AnswerKey": "A",
+      "bolimId": 2
+    },
+    {
+      "Text": "Odamlar sovuqdan qanday himoyalanadi?",
+      "A": "Issiq kiyim kiyadi",
+      "B": "Ko‘proq o‘ynaydi",
+      "C": "Suv ichadi",
+      "D": "Uxlashadi",
+      "AnswerKey": "A",
+      "bolimId": 2
+    },
+    {
+      "Text": "Qaysi qush odamning gapini takrorlay oladi?",
+      "A": "To‘tiqush",
+      "B": "Qaldirg‘och",
+      "C": "Kaptar",
+      "D": "Burgut",
+      "AnswerKey": "A",
+      "bolimId": 2
+    },
+    {
+      "Text": "Odamlar ko‘z bilan nima qiladi?",
+      "A": "Nafas oladi",
+      "B": "Ko‘radi",
+      "C": "Gapiradi",
+      "D": "Eshitadi",
+      "AnswerKey": "B",
+      "bolimId": 2
+    },
+    {
+      "Text": "Qaysi faslda odamlar ko‘proq meva yeydi?",
+      "A": "Qishda",
+      "B": "Yozda",
+      "C": "Kuzda",
+      "D": "Bahorda",
+      "AnswerKey": "B",
+      "bolimId": 2
+    },
+    {
+      "Text": "O‘simliklar qanday oziqlanadi?",
+      "A": "Quyosh nuri, suv va havodan",
+      "B": "Ovqat yeydi",
+      "C": "Hayvonlardan oladi",
+      "D": "Qushlardan oladi",
+      "AnswerKey": "A",
+      "bolimId": 2
+    },
+    {
+      "Text": "Qaysi hayvon sut beradi?",
+      "A": "Tovuq",
+      "B": "Sigir",
+      "C": "Baliq",
+      "D": "Qush",
+      "AnswerKey": "B",
+      "bolimId": 2
+    },
+    {
+      "Text": "Odamlar kun davomida necha marta ovqatlanishi kerak?",
+      "A": "1 marta",
+      "B": "2 marta",
+      "C": "3–4 marta",
+      "D": "5–6 marta",
+      "AnswerKey": "C",
+      "bolimId": 2
+    },
+    {
+      "Text": "Suv qachon muzga aylanadi?",
+      "A": "Juda issiqda",
+      "B": "Sovuqda",
+      "C": "Qaynaganda",
+      "D": "Bulutda",
+      "AnswerKey": "B",
+      "bolimId": 2
+    },
+    {
+      "Text": "Odamlarning tishi nima uchun kerak?",
+      "A": "Yurish uchun",
+      "B": "Gapirish uchun",
+      "C": "Ovqat chaynash uchun",
+      "D": "Nafas olish uchun",
+      "AnswerKey": "C",
+      "bolimId": 2
+    },
+    {
+      "Text": "Qaysi jonivor qishda ham yashil rangda qoladi?",
+      "A": "Kapalak",
+      "B": "Chigirtka",
+      "C": "Qarag‘ay",
+      "D": "Tulip",
+      "AnswerKey": "C",
+      "bolimId": 2
+    },
+    {
+      "Text": "Odamlar sog‘lom bo‘lishi uchun nimalardan saqlanishi kerak?",
+      "A": "Toza havodan",
+      "B": "Sportdan",
+      "C": "Ifloslikdan",
+      "D": "Mevalardan",
+      "AnswerKey": "C",
+      "bolimId": 2
+    },
+    {
+      "Text": "Qaysi sayyorada odamlar yashaydi?",
+      "A": "Mars",
+      "B": "Oy",
+      "C": "Yer",
+      "D": "Venera",
+      "AnswerKey": "C",
+      "bolimId": 2
+    },
+    {
+      "Text": "Qaysi qush tinchlik ramzi hisoblanadi?",
+      "A": "Qarg‘a",
+      "B": "Kaptar",
+      "C": "Boyqush",
+      "D": "Turna",
+      "AnswerKey": "B",
+      "bolimId": 2
+    },
+
+
+    
+      {
+        "Text": "Quyoshga eng yaqin sayyora qaysi?",
+        "A": "Yer",
+        "B": "Mars",
+        "C": "Merkuriy",
+        "D": "Venera",
+        "AnswerKey": "C",
+        "bolimId": 2
+      },
+      {
+        "Text": "Odam tanasida eng katta a’zo qaysi?",
+        "A": "Yurak",
+        "B": "Jigar",
+        "C": "O‘pka",
+        "D": "Miya",
+        "AnswerKey": "B",
+        "bolimId": 2
+      },
+      {
+        "Text": "Baliqlar qayerda yashaydi?",
+        "A": "Sahroda",
+        "B": "Suvda",
+        "C": "Daraxtda",
+        "D": "Yer ostida",
+        "AnswerKey": "B",
+        "bolimId": 2
+      },
+      {
+        "Text": "Chumolilar nimada yashaydi?",
+        "A": "Inlarda",
+        "B": "Uyda",
+        "C": "Qafasda",
+        "D": "Qishda",
+        "AnswerKey": "A",
+        "bolimId": 2
+      },
+      {
+        "Text": "Elektr lampochkani kim ixtiro qilgan?",
+        "A": "Eynshteyn",
+        "B": "Nyuton",
+        "C": "Edison",
+        "D": "Faraday",
+        "AnswerKey": "C",
+        "bolimId": 2
+      },
+      {
+        "Text": "Yilning eng qisqa kuni qaysi faslda bo‘ladi?",
+        "A": "Yoz",
+        "B": "Kuz",
+        "C": "Bahor",
+        "D": "Qish",
+        "AnswerKey": "D",
+        "bolimId": 2
+      },
+      {
+        "Text": "Qushlar qanday nafas oladi?",
+        "A": "Terisi orqali",
+        "B": "Burun va o‘pkasi orqali",
+        "C": "Qanotlari orqali",
+        "D": "Dumlari orqali",
+        "AnswerKey": "B",
+        "bolimId": 2
+      },
+      {
+        "Text": "Eng katta sut emizuvchi hayvon qaysi?",
+        "A": "Fil",
+        "B": "Ko‘k kit",
+        "C": "Ayiq",
+        "D": "Ot",
+        "AnswerKey": "B",
+        "bolimId": 2
+      },
+      {
+        "Text": "Osmondagi eng katta yulduz tizimi nima deyiladi?",
+        "A": "Oy",
+        "B": "Galaktika",
+        "C": "Bulut",
+        "D": "Sayyora",
+        "AnswerKey": "B",
+        "bolimId": 2
+      },
+      {
+        "Text": "Qaysi metall magnitga tortiladi?",
+        "A": "Mis",
+        "B": "Oltin",
+        "C": "Temir",
+        "D": "Kumush",
+        "AnswerKey": "C",
+        "bolimId": 2
+      },
+      {
+        "Text": "Ko‘kalamzorlashtirish nimaga xizmat qiladi?",
+        "A": "Havoni tozalashga",
+        "B": "Issiq qilishga",
+        "C": "Qor yog‘dirishga",
+        "D": "Quyosh chiqarishga",
+        "AnswerKey": "A",
+        "bolimId": 2
+      },
+      {
+        "Text": "Suvning qaynash harorati necha daraja?",
+        "A": "0°C",
+        "B": "50°C",
+        "C": "100°C",
+        "D": "150°C",
+        "AnswerKey": "C",
+        "bolimId": 2
+      },
+      {
+        "Text": "O‘simlik ildizi nima uchun kerak?",
+        "A": "Meva berish uchun",
+        "B": "Suv va oziq olish uchun",
+        "C": "Soyaga tushish uchun",
+        "D": "Yashil bo‘lish uchun",
+        "AnswerKey": "B",
+        "bolimId": 2
+      },
+      {
+        "Text": "Qaysi hayvon tuxum qo‘yadi?",
+        "A": "Sigir",
+        "B": "Ot",
+        "C": "Tovuq",
+        "D": "Mushuk",
+        "AnswerKey": "C",
+        "bolimId": 2
+      },
+      {
+        "Text": "Yer yuzasining katta qismini nima tashkil qiladi?",
+        "A": "Cho‘l",
+        "B": "Suv",
+        "C": "O‘rmon",
+        "D": "Tog‘",
+        "AnswerKey": "B",
+        "bolimId": 2
+      },
+      {
+        "Text": "Odam tanasida nechta ko‘z bor?",
+        "A": "1 ta",
+        "B": "2 ta",
+        "C": "3 ta",
+        "D": "4 ta",
+        "AnswerKey": "B",
+        "bolimId": 2
+      },
+      {
+        "Text": "Inson qaysi faslda ko‘proq iliq kiyim kiyadi?",
+        "A": "Yozda",
+        "B": "Bahorda",
+        "C": "Qishda",
+        "D": "Kuzda",
+        "AnswerKey": "C",
+        "bolimId": 2
+      },
+      {
+        "Text": "Odam tanasida suyaklarning vazifasi nima?",
+        "A": "Ovqat hazm qilish",
+        "B": "Tana shaklini saqlash",
+        "C": "Nafas olish",
+        "D": "Qon aylantirish",
+        "AnswerKey": "B",
+        "bolimId": 2
+      },
+      {
+        "Text": "Qaysi gaz odamlar uchun zarur?",
+        "A": "Kislorod",
+        "B": "Uglerod gazi",
+        "C": "Azot",
+        "D": "Gidrogen",
+        "AnswerKey": "A",
+        "bolimId": 2
+      },
+      {
+        "Text": "Chiroq yonishi uchun nima kerak?",
+        "A": "Havo",
+        "B": "Elektr toki",
+        "C": "Suv",
+        "D": "Quyosh",
+        "AnswerKey": "B",
+        "bolimId": 2
+      },
+      {
+        "Text": "Qaysi qush kechasi ov qiladi?",
+        "A": "Qaldirg‘och",
+        "B": "Boyqush",
+        "C": "Kaptar",
+        "D": "Turna",
+        "AnswerKey": "B",
+        "bolimId": 2
+      },
+      {
+        "Text": "Suv bug‘langanda nima hosil bo‘ladi?",
+        "A": "Qor",
+        "B": "Havo",
+        "C": "Bug‘",
+        "D": "Muz",
+        "AnswerKey": "C",
+        "bolimId": 2
+      },
+      {
+        "Text": "Yer markazida nima joylashgan?",
+        "A": "Metall yadro",
+        "B": "Suv",
+        "C": "Havo",
+        "D": "Qoya tosh",
+        "AnswerKey": "A",
+        "bolimId": 2
+      },
+      {
+        "Text": "Quyosh nuri o‘simliklarga nima beradi?",
+        "A": "Sovuq",
+        "B": "Issiqlik va oziq",
+        "C": "Suv",
+        "D": "Soyabon",
+        "AnswerKey": "B",
+        "bolimId": 2
+      },
+      {
+        "Text": "Odamlar nafas olishda qaysi a’zoni ishlatadi?",
+        "A": "Yurak",
+        "B": "O‘pka",
+        "C": "Qon",
+        "D": "Jigar",
+        "AnswerKey": "B",
+        "bolimId": 2
+      },
+      {
+        "Text": "Suv havzalarida yashil rang hosil qiluvchi narsa nima?",
+        "A": "Baliqlar",
+        "B": "Suv o‘tlari",
+        "C": "Qoya toshlar",
+        "D": "Qum",
+        "AnswerKey": "B",
+        "bolimId": 2
+      },
+      {
+        "Text": "Osmondan muz bo‘laklari ko‘rinishida yog‘adigan narsa nima?",
+        "A": "Qor",
+        "B": "Yomg‘ir",
+        "C": "Dolu",
+        "D": "Shamol",
+        "AnswerKey": "C",
+        "bolimId": 2
+      },
+      {
+        "Text": "Qaysi hayvon cho‘lda uzoq suv ichmay yashay oladi?",
+        "A": "Tuya",
+        "B": "Sigir",
+        "C": "Ot",
+        "D": "Fil",
+        "AnswerKey": "A",
+        "bolimId": 2
+      },
+      {
+        "Text": "Yer atmosferasida eng ko‘p qaysi gaz mavjud?",
+        "A": "Kislorod",
+        "B": "Azot",
+        "C": "Uglerod gazi",
+        "D": "Vodorod",
+        "AnswerKey": "B",
+        "bolimId": 2
+      },
+      
+        {
+          "Text": "Odam tanasida yurak qayerda joylashgan?",
+          "A": "Chap tomonda",
+          "B": "O‘ng tomonda",
+          "C": "Boshda",
+          "D": "Oyog‘da",
+          "AnswerKey": "A",
+          "bolimId": 2
+        },
+        {
+          "Text": "Quyosh chiqadigan tomonni nima deyiladi?",
+          "A": "G‘arb",
+          "B": "Janub",
+          "C": "Sharq",
+          "D": "Shimol",
+          "AnswerKey": "C",
+          "bolimId": 2
+        },
+        {
+          "Text": "Odamlar elektr energiyasini qayerdan oladi?",
+          "A": "Shamol va suvdan",
+          "B": "Havo va yog‘ochdan",
+          "C": "Qum va tuproqdan",
+          "D": "Oy va yulduzlardan",
+          "AnswerKey": "A",
+          "bolimId": 2
+        },
+        {
+          "Text": "Qaysi hayvon dumini tashlab qochib ketishi mumkin?",
+          "A": "Mushuk",
+          "B": "To‘tiqush",
+          "C": "Kaltakesak",
+          "D": "Ot",
+          "AnswerKey": "C",
+          "bolimId": 2
+        },
+        {
+          "Text": "Qaysi qush inson so‘zlarini takrorlashi mumkin?",
+          "A": "Turna",
+          "B": "To‘tiqush",
+          "C": "Kaptar",
+          "D": "Qaldirg‘och",
+          "AnswerKey": "B",
+          "bolimId": 2
+        },
+        {
+          "Text": "Qaysi hayvon eng tez chopadi?",
+          "A": "Fil",
+          "B": "Ot",
+          "C": "Yo‘lbars",
+          "D": "Gepard",
+          "AnswerKey": "D",
+          "bolimId": 2
+        },
+        {
+          "Text": "Qaysi meva qishda odamlarni shamollashdan asraydi?",
+          "A": "Olma",
+          "B": "Anor",
+          "C": "Limon",
+          "D": "Gilos",
+          "AnswerKey": "C",
+          "bolimId": 2
+        },
+        {
+          "Text": "Tuproqning ustki unumdor qatlami nima deyiladi?",
+          "A": "Qoya",
+          "B": "Qum",
+          "C": "Chirindi",
+          "D": "Suv",
+          "AnswerKey": "C",
+          "bolimId": 2
+        },
+        {
+          "Text": "Yer ostidan chiqqan issiq suv manbai nima deyiladi?",
+          "A": "Buloq",
+          "B": "Ko‘l",
+          "C": "Daryo",
+          "D": "Issiq buloq",
+          "AnswerKey": "D",
+          "bolimId": 2
+        },
+        {
+          "Text": "Qaysi hasharot guldan nektar yig‘ib, asal tayyorlaydi?",
+          "A": "Chumoli",
+          "B": "Asalari",
+          "C": "Chigirtka",
+          "D": "Pashsha",
+          "AnswerKey": "B",
+          "bolimId": 2
+        },
+        {
+          "Text": "Ko‘zlarimizni quyoshdan qanday himoya qilamiz?",
+          "A": "Sharf bilan",
+          "B": "Qo‘lqop bilan",
+          "C": "Quyosh ko‘zoynagi bilan",
+          "D": "Shapka bilan",
+          "AnswerKey": "C",
+          "bolimId": 2
+        },
+        {
+          "Text": "Odamning tishlari nima uchun kerak?",
+          "A": "Yugurish uchun",
+          "B": "Ovqat chaynash uchun",
+          "C": "Ko‘rish uchun",
+          "D": "Eshitish uchun",
+          "AnswerKey": "B",
+          "bolimId": 2
+        },
+        {
+          "Text": "Qaysi hayvon suvda ham, quruqlikda ham yashaydi?",
+          "A": "Baliq",
+          "B": "Qurbaqa",
+          "C": "Qaldirg‘och",
+          "D": "Bo‘ri",
+          "AnswerKey": "B",
+          "bolimId": 2
+        },
+        {
+          "Text": "Odamlar nafas olish uchun qaysi gaz kerak?",
+          "A": "Kislorod",
+          "B": "Azot",
+          "C": "Uglerod gazi",
+          "D": "Heliy",
+          "AnswerKey": "A",
+          "bolimId": 2
+        },
+        {
+          "Text": "Hayvonlarning oyoq izlari qayerda qoladi?",
+          "A": "Suvda",
+          "B": "Osmonda",
+          "C": "Qorda va qumda",
+          "D": "Havoda",
+          "AnswerKey": "C",
+          "bolimId": 2
+        }
+      ]
+      
+    
+    
+
+ 
+
+  
+  
